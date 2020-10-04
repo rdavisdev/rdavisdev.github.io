@@ -12,13 +12,13 @@ section {
 }
 
 #header nav {
-    position: relative;
     max-width: 65%;
 }
 
 #header nav li.title {
     float: left;
     font-size: 40px;
+    position: relative;
     top: 10px;
 }
 
