@@ -14,3 +14,14 @@ section {
 #header nav {
     max-width: 65%;
 }
+
+#header nav li.title {
+    float: left;
+    font-size: 40px;
+}
+
+#header nav li.subtitle {
+    float: left;
+    margin-right: 10px;
+    font-size: 20px;
+}
