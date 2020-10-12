@@ -16,11 +16,12 @@ section {
 }
 
 #topwrapper{
-    min-width: 900px;
+    min-width: 1050px;
 }
 
 #header{
     position: sticky;
+    height: 65px;
 }
 
 #header nav {
@@ -36,7 +37,7 @@ section {
     float: left;
     font-size: 34px;
     position: relative;
-    top: -15px;
+    top: -6px;
 }
 
 #header nav li.subtitle {
@@ -45,17 +46,18 @@ section {
     font-size: 20px;
     position: relative;
     left: -171.6px;
-    top: 15px;
+    top: 25px;
 }
 
 #header nav li.downloads{
     float: right;
+    font-size: 14px;
 }
 
 #buttons{
     float: left;
     width: calc(100% - 260px);
-    top: -51px;
+    top: -40px;
     position: relative;
     left: 260px;
 }
