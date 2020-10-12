@@ -2,8 +2,6 @@
 
 My name is Ryan, a junior programmer at DigiPen Institute of Technology. I'm studying real time interactive simulation and loving every bit of it. Past titles I've worked on while here are Chromatic Split and Isles of Limbo, along with a new game under development right now (sneak peaks can be found here). 
 
-<img align="right" width="100" height="100" src="assets/ArgonauticsPic.PNG">
-
 My experiences and interests revolve around the following topics: 
 
 > Game Mechanics
