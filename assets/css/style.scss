@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background: #171717;
+}
+
 .wrapper {
     max-width: 65%;  
 }
@@ -11,9 +15,17 @@ section {
     max-width: none;
 }
 
+#header{
+    position: sticky;
+}
+
 #header nav {
     max-width: 65%;
     min-width: 100px;
+}
+
+#header nav li a{
+    background-color: #728c2b;
 }
 
 #header nav li.title {
