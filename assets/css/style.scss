@@ -37,5 +37,9 @@ section {
 }
 
 #buttons{
-    float: none;
+    float: left;
+    width: calc(100% - 260px);
+    top: -51px;
+    position: relative;
+    left: 260px;
 }
