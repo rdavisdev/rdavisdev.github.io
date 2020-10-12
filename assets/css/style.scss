@@ -8,11 +8,14 @@ body {
 }
 
 .wrapper {
-    max-width: 65%;  
+    max-width: 65%;
+    top: -20px;  
 }
 
 section {
-    max-width: none;
+    padding: 0px 0px 50px 0px;
+    margin: 0px 0;
+    margin-top: 33px;
 }
 
 #topwrapper{
@@ -60,4 +63,8 @@ section {
     top: -40px;
     position: relative;
     left: 260px;
+}
+
+section #title h1{
+    line-height: 45px;
 }
