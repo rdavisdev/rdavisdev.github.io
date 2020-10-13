@@ -28,7 +28,7 @@
             <li class="title">Ryan Davis</li>
             <li class="subtitle">Game Programmer Portfolio</li>
             <div id="buttons">
-            <li class="downloads" input data-href="/"><a href="/">Home</a></li>
+            <li class="downloads"><a href="/">Home</a></li>
             <li class="downloads"><a href="resume">Resume</a></li>
             <li class="downloads"><a href="projects">Projects</a></li>
             <li class="downloads"><a href="games">Games</a></li>
@@ -38,7 +38,7 @@
 
       <script>
         $(function() {
-          $('input[data-href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
+          $('nav li a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
         });
       </script>
 
