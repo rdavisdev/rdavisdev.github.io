@@ -22,7 +22,9 @@ I'm currently searching for an internship in one of these fields. Hopefully one 
 I hope you enjoy your visit!
 
 <html>
-    <hr>
+    <div id="title">
+        <hr>
+    </div>
 </html>
 
-Test contact information <center>test center<center> <div style="text-align: right"> test right </div>
+<center>test info: test link    test info: test link    test info: test link<center>
