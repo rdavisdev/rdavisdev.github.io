@@ -65,6 +65,10 @@ section {
     font-size: 14px;
 }
 
+#header nav li.downloads.active{
+    background-color: rgb(56 70 18);
+}
+
 #buttons{
     float: left;
     width: calc(100% - 335px);
