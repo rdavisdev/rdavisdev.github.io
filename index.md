@@ -27,4 +27,4 @@ I hope you enjoy your visit!
     </div>
 </html>
 
-<center>test info: test link    test info: test link    test info: test link<center>
+<center>test info: test link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test info: test link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test info: test link<center>
