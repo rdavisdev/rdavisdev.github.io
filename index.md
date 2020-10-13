@@ -1,8 +1,8 @@
 <html>
     <div id="title">
         <h1>Hello!</h1>
-        <hr>
     </div>
+    <hr>
 </html>
 
 # And Welcome to my portfolio!
@@ -22,9 +22,7 @@ I'm currently searching for an internship in one of these fields. Hopefully one 
 I hope you enjoy your visit!
 
 <html>
-    <div id="title">
-        <hr>
-    </div>
+    <hr>
 </html>
 
 <center>test info: test link
