@@ -1,8 +1,8 @@
-<center>Hello!</center>
+# <center>Hello!</center>
 
 <html>
     <hr>
-</hrml>
+</html>
 
 # And Welcome to my portfolio!
 
