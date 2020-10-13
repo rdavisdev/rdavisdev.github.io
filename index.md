@@ -1,7 +1,8 @@
-# <center>Hello!</center>
-
 <html>
-    <hr>
+    <div id="title">
+        <h1>Hello!</h1>
+        <hr>
+    </div>
 </html>
 
 # And Welcome to my portfolio!
