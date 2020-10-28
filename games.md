@@ -8,9 +8,10 @@ Areas of responsibility:
 
 > Engine Developement: Worked closely with the early development of the engine's foundation. Functionality I worked on includes instanced entities, serialization of scenes and assets, entity and component referencing, entity parenting hierarchies, and modular viewports. Later in the project's lifecycle, I added the performance diagnostics toolset and a per-entity timewarp system.
 
-<centered>{% include youtubePlayer.html id="qTxM9mSe6K4" %}</centered>
+<html><centered>{% include youtubePlayer.html id="qTxM9mSe6K4" %}</centered></html>
 
 <html>
+    <br>
     <hr>
 </html>
 
