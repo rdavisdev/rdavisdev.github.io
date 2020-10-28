@@ -1,14 +1,14 @@
 <!-- Trigger the Modal -->
-<img id="myImg" src="assets/{{ include.imagePath }}" alt="{{ include.imageDesc }}" style="width:100%;max-width:300px">
+<img id="{{ include.ID }}_img" src="assets/{{ include.imagePath }}" alt="{{ include.imageDesc }}" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="{{ include.ID }}" class="modal"> 
 
   <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
+  <img class="modal-content" id="{{ include.ID }}_img01">
 
   <!-- Modal Caption (Image Text) -->
-  <div id="caption"></div>
+  <div id="{{ include.ID }}_caption"></div>
 </div>
 
 <script>
@@ -16,9 +16,9 @@
     var modal = document.getElementById("{{ include.ID }}");
 
     // Get the image and insert it inside the modal - use its "alt" text as a caption
-    var img = document.getElementById("myImg");
-    var modalImg = document.getElementById("img01");
-    var captionText = document.getElementById("caption");
+    var img = document.getElementById("{{ include.ID }}_img");
+    var modalImg = document.getElementById("{{ include.ID }}_img01");
+    var captionText = document.getElementById("{{ include.ID }}_caption");
     img.onclick = function(){
         modal.style.display = "block";
         modalImg.src = this.src;
