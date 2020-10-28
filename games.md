@@ -1,12 +1,9 @@
 # Isles of Limbo (C++/C#)
 
-<div position="relative" width="100%" height="0" padding-bottom="56.25%">
+<div class="aspect-ratio">
     <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-        width="100% "
-        height="100%"
-        position="absolute"
-        left="0"
-        top="0"
+        width="550"
+        height="275"
         frameborder="0" 
         allowfullscreen>
     </iframe>
