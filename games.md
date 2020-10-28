@@ -16,7 +16,7 @@ Areas of responsibility:
 </div>
 
 <!-- Trigger the Modal -->
-<img id="myImg" src="assets/IslesOfLimb_Gameplay1.jpg" alt="Isles Of Limbo Gameplay" style="width:100%;max-width:300px">
+<img id="myImg" src="assets/IslesOfLimbo_Gameplay1.jpg" alt="Isles Of Limbo Gameplay" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
