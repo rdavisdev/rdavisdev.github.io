@@ -16,6 +16,7 @@ Areas of responsibility:
 </div>
 
 {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" id="IslesOfLimbo_Gameplay1" %}
+{% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" id="IslesOfLimbo_Gameplay2" %}
 
 <p></p>
 <hr>
