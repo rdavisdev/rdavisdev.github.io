@@ -2,8 +2,8 @@
 
 <div class="aspect-ratio">
     <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-        width="550"
-        height="275"
+        width="50%"
+        height="25.325%"
         frameborder="0" 
         allowfullscreen>
     </iframe>
