@@ -19,7 +19,8 @@ Areas of responsibility:
 <img id="myImg" src="assets/IslesOfLimbo_Gameplay1.jpg" alt="Isles Of Limbo Gameplay" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<div id="myModal" class="modal"> 
+
 
   <!-- The Close Button -->
   <span class="close">&times;</span>
@@ -45,11 +46,8 @@ img.onclick = function(){
   captionText.innerHTML = this.alt;
 }
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
 // When the user clicks on <span> (x), close the modal
-document.onclick = function() {
+modal.onclick = function() {
   modal.style.display = "none";
 }
 </script>
