@@ -1,15 +1,5 @@
 # Isles of Limbo (C++/C#)
 
-<div class="aspect-ratio">
-    <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-        width="50%"
-        height="25.325%"
-        frameborder="0" 
-        allowfullscreen>
-    </iframe>
-</div>
-<p></p>
-
 2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes with. Using our team's custom built engine, we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
 Areas of responsibility:
@@ -18,10 +8,17 @@ Areas of responsibility:
 
 > Engine Developement: Worked closely with the early development of the engine's foundation. Functionality I worked on includes instanced entities, serialization of scenes and assets, entity and component referencing, entity parenting hierarchies, and modular viewports. Later in the project's lifecycle, I added the performance diagnostics toolset and a per-entity timewarp system.
 
-<html>
-    <p></p>
-    <hr>
-</html>
+<div class="aspect-ratio">
+    <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
+        width="50%"
+        height="25.325%"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<p></p>
+<hr>
 
 # Chromatic Split (C++)
 
