@@ -1,12 +1,13 @@
 # Isles of Limbo (C++/C#)
 
-<iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-    width="100%" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
+<div align="right" width="100%" height="0" padding-bottom="51%">
+    <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
+        width="100%" 
+        height="100%"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
 
 2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes with. Using our team's custom built engine, we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
@@ -24,12 +25,12 @@ Areas of responsibility:
 # Chromatic Split (C++)
 
 <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-    width="100%" 
+    width="560" 
     height="315"
     frameborder="0"
+    align="right" 
     allowfullscreen>
 </iframe>
-
 
 Summer of 2019 project at Digipen, [_Chromatic Split_]() is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a premade engine framework, the game utilized a level serialization system that let our team build mazes using text files. 
 
