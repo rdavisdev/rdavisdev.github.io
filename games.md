@@ -25,4 +25,4 @@ Areas of responsibility:
 
 > Tools: Programmed level serialization system for building mazes with text files.
 
-<centered>{% include youtubePlayer.html id="qTxM9mSe6K4" %}</centered>
+{% include youtubePlayer.html id="qTxM9mSe6K4" %}
