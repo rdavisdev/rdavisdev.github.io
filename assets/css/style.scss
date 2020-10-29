@@ -106,10 +106,11 @@ section #title{
     top: 0;
 }
 
-.aspect-ratio img
+.aspect-ratio div
 {
-    width: 50%;
-    height: 100%;
+    position: absolute;
+    width: 25%;
+    height: 50%;
 }
 
 /* Style the Image Used to Trigger the Modal */
