@@ -108,7 +108,9 @@ section #title{
 
 .aspect-ratio div
 {
+    position: absolute;
     width: 25%;
+    height: 50%;
 }
 
 .aspect-ratio img
