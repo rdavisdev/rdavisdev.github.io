@@ -1,5 +1,5 @@
 <!-- Trigger the Modal -->
-<img id="{{ include.ID }}_img" src="assets/{{ include.imagePath }}" alt="{{ include.imageDesc }}" style="width:100%;max-width:300px">
+<img id="{{ include.ID }}_img" class="modal_img" src="assets/{{ include.imagePath }}" alt="{{ include.imageDesc }}" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="{{ include.ID }}" class="modal"> 
@@ -8,7 +8,7 @@
   <img class="modal-content" id="{{ include.ID }}_img01">
 
   <!-- Modal Caption (Image Text) -->
-  <div id="{{ include.ID }}_caption"></div>
+  <div id="{{ include.ID }}_caption" class="modal-caption"></div>
 </div>
 
 <script>

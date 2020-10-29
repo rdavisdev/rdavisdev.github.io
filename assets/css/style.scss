@@ -112,13 +112,13 @@ section #title{
 
 
 /* Style the Image Used to Trigger the Modal */
-#myImg {
+.modal-image {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
   }
   
-  #myImg:hover {opacity: 0.7;}
+  .modal-image:hover {opacity: 0.7;}
   
   /* The Modal (background) */
   .modal {
@@ -144,7 +144,7 @@ section #title{
   }
   
   /* Caption of Modal Image (Image Text) - Same Width as the Image */
-  #caption {
+  .modal-caption {
     margin: auto;
     display: block;
     width: 80%;
@@ -156,7 +156,7 @@ section #title{
   }
   
   /* Add Animation - Zoom in the Modal */
-  .modal-content, #caption {
+  .modal-content, .modal-caption {
     animation-name: zoom;
     animation-duration: 0.6s;
   }
