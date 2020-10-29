@@ -38,3 +38,5 @@ Areas of responsibility:
     </iframe>
 </div>
 <p></p>
+
+{% include modal.html ID="IslesOfLimbo_Gameplay1" %}
