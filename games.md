@@ -53,21 +53,25 @@ Areas of responsibility:
 <script>
 var slideIndex = [1,1];
 var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
+var advanceLock = [false, false];
 showSlides(1, 0);
 showSlides(1, 1);
 
 advanceSlides();
 function advanceSlides()
 {
-    plusSlides(1, 0);
-    plusSlides(1, 1);
+    if(!advanceLock[0])
+        plusSlides(1, 0);
+    if(!advanceLock[1])
+        plusSlides(1, 1);
+    advanceLock = [true];
 
     setTimeout(advanceSlides, 6000);
 }
 
-
 function plusSlides(n, no) {
     showSlides(slideIndex[no] += n, no);
+    advanceLock[no] = true;
 }
 
 function showSlides(n, no) {
