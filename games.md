@@ -42,19 +42,19 @@ Areas of responsibility:
         allowfullscreen>
     </iframe>
 
-    <div style="left: 50%; top: 0;">
+    <div style="left: 50%; top: 0;" class="quarterImage">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay5" %}
     </div>
 
-    <div style="left: 75%; top: 0;">
+    <div style="left: 75%; top: 0;" class="quarterImage">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay6" %}
     </div>
 
-    <div style="left: 50%; top: 50%;">
+    <div style="left: 50%; top: 50%;" class="quarterImage">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay7" %}
     </div>
 
-    <div style="left: 75%; top: 50%;">
+    <div style="left: 75%; top: 50%;" class="quarterImage">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay8" %}
     </div>
 </div>
