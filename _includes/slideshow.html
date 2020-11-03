@@ -24,3 +24,11 @@
 
 </div>
 <br>
+
+<script>
+    function advanceSlidesIndex{{ include.index }}()
+    {
+        plusSlides(1, {{ include.index }} );
+        setTimeout(advanceSlides(), 2000);
+    }
+</script>
