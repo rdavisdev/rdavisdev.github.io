@@ -13,6 +13,23 @@ Areas of responsibility:
         frameborder="0" 
         allowfullscreen>
     </iframe>
+
+    <div style="left: 50%; top: 0;">
+    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay1" %}
+    </div>
+
+    <div style="left: 75%; top: 0;">
+    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay2" %}
+    </div>
+
+    <div style="left: 50%; top: 50%;">
+    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay3" %}
+    </div>
+
+    <div style="left: 75%; top: 50%;">
+    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay4" %}
+    </div>
+
 </div>
 
 <p></p>
