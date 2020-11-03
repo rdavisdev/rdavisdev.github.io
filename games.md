@@ -13,6 +13,7 @@ Areas of responsibility:
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
     {% include slideshow.html 
+    class="IslesOfLimboSlides"
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
     img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
@@ -39,7 +40,8 @@ Areas of responsibility:
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
 
-    {% include slideshow.html 
+    {% include slideshow.html
+    class="ChromaticSplitSlides"
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
     img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
@@ -57,3 +59,26 @@ Areas of responsibility:
 {% include modal.html ID="IslesOfLimbo_Gameplay6" %}
 {% include modal.html ID="IslesOfLimbo_Gameplay7" %}
 {% include modal.html ID="IslesOfLimbo_Gameplay8" %}
+
+<script>
+    var slideIndex = [1,1];
+    var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
+    showSlides(1, 0);
+    showSlides(1, 1);
+    
+    function plusSlides(n, no) {
+      showSlides(slideIndex[no] += n, no);
+    }
+    
+    function showSlides(n, no) {
+      var i;
+      var x = document.getElementsByClassName(slideId[no]);
+      if (n > x.length) {slideIndex[no] = 1}    
+      if (n < 1) {slideIndex[no] = x.length}
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";  
+      }
+      x[slideIndex[no]-1].style.display = "block";  
+    }
+</script>
+    

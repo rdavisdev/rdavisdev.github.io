@@ -2,19 +2,19 @@
 <div class="slideshow-container">
 
     <!-- Full-width images with number and caption text -->
-    <div class="slideshow-mySlides fade">
+    <div class="{{ include.class }} fade">
         <img src="assets/{{ include.img1 }}" style="width:100%; border-radius:5px; cursor:pointer; transition:0.3s;">
     </div>
   
-    <div class="slideshow-mySlides fade">
+    <div class="{{ include.class }} fade">
         <img src="assets/{{ include.img2 }}" style="width:100%; border-radius:5px; cursor:pointer; transition:0.3s;">
     </div>
     
-    <div class="slideshow-mySlides fade">
+    <div class="{{ include.class }} fade">
         <img src="assets/{{ include.img3 }}" style="width:100%; border-radius:5px; cursor:pointer; transition:0.3s;">
     </div>
   
-    <div class="slideshow-mySlides fade">
+    <div class="{{ include.class }} fade">
         <img src="assets/{{ include.img4 }}" style="width:100%; border-radius:5px; cursor:pointer; transition:0.3s;">
     </div>
 
@@ -24,26 +24,3 @@
 
 </div>
 <br>
-
-<script>
-    var slideIndex = [1,1];
-    var slideId = ["slideshow-mySlides"]
-    showSlides(1, 0);
-    showSlides(1, 1);
-    
-    function plusSlides(n, no) {
-      showSlides(slideIndex[no] += n, no);
-    }
-    
-    function showSlides(n, no) {
-      var i;
-      var x = document.getElementsByClassName(slideId[no]);
-      if (n > x.length) {slideIndex[no] = 1}    
-      if (n < 1) {slideIndex[no] = x.length}
-      for (i = 0; i < x.length; i++) {
-         x[i].style.display = "none";  
-      }
-      x[slideIndex[no]-1].style.display = "block";  
-    }
-    </script>
-    
