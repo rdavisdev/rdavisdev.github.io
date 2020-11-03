@@ -14,7 +14,12 @@ Areas of responsibility:
         allowfullscreen>
     </iframe>
   
-    {% include }
+    {% include slideshow.html 
+    img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
+    img2="IslesOfLimbo_Gameplay1.jpg" caption2="test caption"
+    img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
+    img4="IslesOfLimbo_Gameplay1.jpg" caption4="test caption"
+    %}
 
 </div>
 
