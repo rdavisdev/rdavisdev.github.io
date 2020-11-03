@@ -14,6 +14,8 @@ Areas of responsibility:
         allowfullscreen>
     </iframe>
   
+    <!--
+
     <div style="left: 50%; top: 0;">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay1" %}
     </div>
@@ -29,6 +31,8 @@ Areas of responsibility:
     <div style="left: 75%; top: 50%;">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay4" %}
     </div>
+
+    -->
 
 </div>
 
