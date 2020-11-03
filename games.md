@@ -61,8 +61,8 @@ function advanceSlides()
 {
     plusSlides(1, 0);
     plusSlides(1, 1);
-    
-    setTimeout(advanceSlides, 5000);
+
+    setTimeout(advanceSlides, 6000);
 }
 
 
