@@ -9,10 +9,8 @@ Areas of responsibility:
 > Engine Developement: Worked closely with the early development of the engine's foundation. Functionality I worked on includes instanced entities, serialization of scenes and assets, entity and component referencing, entity parenting hierarchies, and modular viewports. Later in the project's lifecycle, I added the performance diagnostics toolset and a per-entity timewarp system.
 
 <div class="aspect-ratio">
-    <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-        frameborder="0" 
-        allowfullscreen>
-    </iframe>
+
+    {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
     {% include slideshow.html 
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
