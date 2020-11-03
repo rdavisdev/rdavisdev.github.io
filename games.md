@@ -37,10 +37,8 @@ Areas of responsibility:
 > Tools: Programmed level serialization system for building mazes with text files.
 
 <div class="aspect-ratio">
-    <iframe src="https://www.youtube.com/embed/qTxM9mSe6K4" 
-        frameborder="0" 
-        allowfullscreen>
-    </iframe>
+
+    {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
     <div style="left: 50%; top: 0;" class="quarterImage">
     {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay5" %}
