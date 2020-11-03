@@ -64,8 +64,13 @@ function advanceSlides()
         plusSlides(1, 0);
     if(!advanceLock[1])
         plusSlides(1, 1);
-    advanceLock = [true];
 
+    for(var i = 0; i < slideID.length; i++)
+    {
+        if(!advanceLock[i])
+            plusSlides(1, i);
+        advanceLock[i] = false;
+    }
     setTimeout(advanceSlides, 6000);
 }
 
