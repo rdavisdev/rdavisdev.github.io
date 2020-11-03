@@ -56,6 +56,15 @@ var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
 showSlides(1, 0);
 showSlides(1, 1);
 
+advanceSlides();
+function advanceSlides()
+{
+    plusSlides(1, 0);
+    plusSlides(1, 1);
+    
+    setTimeout(advanceSlides, 5000);
+}
+
 
 function plusSlides(n, no) {
     showSlides(slideIndex[no] += n, no);

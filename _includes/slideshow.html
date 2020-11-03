@@ -21,15 +21,5 @@
     <!-- Next and previous buttons -->
     <a class="slideshow-prev" onclick="plusSlides(-1, {{ include.index }} )">&#10094;</a>
     <a class="slideshow-next" onclick="plusSlides(1, {{ include.index }} )">&#10095;</a>
-
-    <script>
-    advanceSlidesIndex{{ include.index }}();
-    function advanceSlidesIndex{{ include.index }}()
-    {
-        plusSlides(1, {{ include.index }} );
-        setTimeout(advanceSlidesIndex{{ include.index }}, 2000);
-    }
-    </script>
-
 </div>
 <br>
