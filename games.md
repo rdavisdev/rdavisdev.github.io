@@ -60,7 +60,7 @@ showSlides(1, 1);
 advanceSlides();
 function advanceSlides()
 {
-    for(var i = 0; i < slideID.length; i++)
+    for(var i = 0; i < slideId.length; i++)
     {
         if(!advanceLock[i])
             plusSlides(1, i);
