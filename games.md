@@ -56,16 +56,16 @@ Areas of responsibility:
     showSlides(1, 0);
     showSlides(1, 1);
     
-    advanceSlidesIndex();
-    function advanceSlidesIndex()
+    advanceSlidesIndex0();
+    function advanceSlidesIndex0()
     {
         plusSlides(1, 0);
-        setTimeout(advanceSlidesIndex, 2000);
+        setTimeout(advanceSlidesIndex0, 2000);
     }
 
     function plusSlides(n, no) {
       showSlides(slideIndex[no] += n, no);
-      
+
     }
     
     function showSlides(n, no) {
