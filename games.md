@@ -55,17 +55,10 @@ Areas of responsibility:
     var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
     showSlides(1, 0);
     showSlides(1, 1);
-    
-    advanceSlidesIndex0();
-    function advanceSlidesIndex0()
-    {
-        plusSlides(1, 0);
-        setTimeout(advanceSlidesIndex0, 2000);
-    }
+
 
     function plusSlides(n, no) {
       showSlides(slideIndex[no] += n, no);
-
     }
     
     function showSlides(n, no) {
