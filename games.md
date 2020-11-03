@@ -14,9 +14,9 @@ Areas of responsibility:
 
     {% include slideshow.html 
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
-    img2="IslesOfLimbo_Gameplay1.jpg" caption2="test caption"
+    img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
-    img4="IslesOfLimbo_Gameplay1.jpg" caption4="test caption"
+    img4="IslesOfLimbo_Gameplay2.jpg" caption4="test caption"
     %}
 
 </div>
@@ -38,21 +38,14 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
-    <div style="left: 50%; top: 0;" class="quarterImage">
-    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay5" %}
-    </div>
 
-    <div style="left: 75%; top: 0;" class="quarterImage">
-    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay6" %}
-    </div>
+    {% include slideshow.html 
+    img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
+    img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
+    img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
+    img4="IslesOfLimbo_Gameplay2.jpg" caption4="test caption"
+    %}
 
-    <div style="left: 50%; top: 50%;" class="quarterImage">
-    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay7" %}
-    </div>
-
-    <div style="left: 75%; top: 50%;" class="quarterImage">
-    {% include modalImage.html imagePath="IslesOfLimbo_Gameplay1.jpg" imageDesc="Isles of Limbo Gameplay" ID="IslesOfLimbo_Gameplay8" %}
-    </div>
 </div>
 <p></p>
 
