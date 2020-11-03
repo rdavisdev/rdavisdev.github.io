@@ -3,7 +3,7 @@
 
     <!-- Full-width images with number and caption text -->
     <div class="{{ include.class }} fade">
-        <img src="assets/{{ include.img1 }}" style="width:100%; height:98%; border-radius:10px; cursor:pointer; transition:0.3s;">
+        {% include modalImage.html imagePath="{{ include.img1 }}" imageDesc="{{ include.caption1 }}" %}
     </div>
   
     <div class="{{ include.class }} fade">

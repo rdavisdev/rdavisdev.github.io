@@ -8,16 +8,17 @@
     <div id="{{ include.ID }}_caption" class="modal-caption"></div>
   </div>
   
-  <script>
-  
-      document.getElementById("{{ include.ID }}_img").onclick = function(){
-          document.getElementById("{{ include.ID }}").style.display = "block";
-          document.getElementById("{{ include.ID }}_img01").src = this.src;
-          document.getElementById("{{ include.ID }}_caption").innerHTML = this.alt;
-      }
-  
-      // When the user clicks, close the modal
-      document.getElementById("{{ include.ID }}").onclick = function() {
-          document.getElementById("{{ include.ID }}").style.display = "none";
-      }
-  </script>
+<script>
+
+document.getElementById("{{ include.ID }}_img").onclick = function(){
+    document.getElementById("{{ include.ID }}").style.display = "block";
+    document.getElementById("{{ include.ID }}_img01").src = this.src;
+    document.getElementById("{{ include.ID }}_caption").innerHTML = this.alt;
+}
+
+// When the user clicks, close the modal
+document.getElementById("{{ include.ID }}").onclick = function() {
+    document.getElementById("{{ include.ID }}").style.display = "none";
+}
+
+</script>
