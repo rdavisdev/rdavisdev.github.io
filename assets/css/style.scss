@@ -342,12 +342,12 @@ section #title{
     animation-duration: 1.5s;
   }
   
-  @-webkit-keyframes fade {
+  @-webkit-keyframes slideshow-fade {
     from {opacity: .4}
     to {opacity: 1}
   }
   
-  @keyframes fade {
+  @keyframes slideshow-fade {
     from {opacity: .4}
     to {opacity: 1}
   }
