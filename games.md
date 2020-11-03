@@ -13,7 +13,7 @@ Areas of responsibility:
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
     {% include slideshow.html 
-    class="IslesOfLimboSlides"
+    class="IslesOfLimboSlides" index="0"
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
     img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
@@ -39,9 +39,8 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
-
     {% include slideshow.html
-    class="ChromaticSplitSlides"
+    class="ChromaticSplitSlides" index="1"
     img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
     img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
@@ -50,15 +49,6 @@ Areas of responsibility:
 
 </div>
 <p></p>
-
-{% include modal.html ID="IslesOfLimbo_Gameplay1" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay2" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay3" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay4" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay5" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay6" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay7" %}
-{% include modal.html ID="IslesOfLimbo_Gameplay8" %}
 
 <script>
     var slideIndex = [1,1];
