@@ -323,7 +323,7 @@ section #title{
 }
   
   /* Fading animation */
-.slideshow-fade {
+.fade {
     box-sizing:border-box;
     -webkit-animation-name: fade;
     -webkit-animation-duration: 1.5s;
@@ -331,12 +331,12 @@ section #title{
     animation-duration: 1.5s;
 }
   
-@-webkit-keyframes slideshow-fade {
+@-webkit-keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
 }
-  
-@keyframes slideshow-fade {
+   
+@keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
 }
