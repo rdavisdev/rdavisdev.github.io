@@ -48,12 +48,13 @@ Areas of responsibility:
     %}
 
 </div>
-<p></p>
 
 <div id="Modal" class="modal">
     <img id="Modal_img" class="modal-content">
     <div id="modal_caption" class="modal-caption"></div>
 </div>
+
+<p></p>
 
 <script>
 
