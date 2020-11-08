@@ -57,7 +57,7 @@ Areas of responsibility:
 
 <script>
 
-document.getElementById("Slide_Modal").onClick = function(){
+document.getElementById("IslesOfLimboSlides_modal1").onClick = function(){
     document.getElementById("Modal").style.display = "block";
     document.getElementById("Modal_img").src = this.src;
     document.getElementById("Modal_caption").innerHTML = this.alt;
