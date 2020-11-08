@@ -50,6 +50,25 @@ Areas of responsibility:
 </div>
 <p></p>
 
+<div id="Modal" class="modal">
+    <img id="Modal_img" class="modal-content">
+    <div id="modal_caption" class="modal-caption"></div>
+</div>
+
+<script>
+
+document.getElementById("Slide_Modal").onClick = function(){
+    document.getElementById("Modal").style.display = "block";
+    document.getElementById("Modal_img").src = this.src;
+    document.getElementById("Modal_caption").innerHTML = this.alt;
+}
+
+document.getElementById("Modal").onClick = function(){
+    document.getElementById("Modal").style.display = "none";
+}
+
+</script>
+
 <script>
 var slideIndex = [1,1];
 var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
