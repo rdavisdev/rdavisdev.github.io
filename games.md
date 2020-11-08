@@ -41,10 +41,10 @@ Areas of responsibility:
 
     {% include slideshow.html
     class="ChromaticSplitSlides" index="1"
-    img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
-    img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
+    img1="IslesOfLimbo_Gameplay2.jpg" caption1="test caption"
+    img2="IslesOfLimbo_Gameplay1.jpg" caption2="test caption"
     img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
-    img4="IslesOfLimbo_Gameplay2.jpg" caption4="test caption"
+    img4="IslesOfLimbo_Gameplay1.jpg" caption4="test caption"
     %}
 
 </div>
