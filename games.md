@@ -57,10 +57,14 @@ Areas of responsibility:
 
 <script>
 
-document.getElementById("Slide_Modal").onclick = function(){
-    document.getElementById("Modal").style.display = "block";
-    document.getElementById("Modal_img").src = this.src;
-    document.getElementById("Modal_caption").innerHTML = this.alt;
+var images = document.getElementsByClassName("slideshow-image");
+for(var i = 0; i < images.length; i++)
+{ 
+    images[i].onclick = function(){
+        document.getElementById("Modal").style.display = "block";
+        document.getElementById("Modal_img").src = this.src;
+        document.getElementById("Modal_caption").innerHTML = this.alt;
+    }
 }
 
 document.getElementById("Modal").onclick = function(){
