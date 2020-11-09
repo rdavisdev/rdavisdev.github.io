@@ -46,10 +46,10 @@ Areas of responsibility:
 
     {% include slideshow.html
     class="ChromaticSplitSlides" index="1"
-    img1="ChromaticSplit/ChromaticSplitGameplay1.PNG" caption1="test caption"
-    img2="ChromaticSplit/ChromaticSplitGameplay2.PNG" caption2="test caption"
-    img3="ChromaticSplit/ChromaticSplitGameplay3.PNG" caption3="test caption"
-    img4="ChromaticSplit/ChromaticSplitGameplay4.PNG" caption4="test caption"
+    img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
+    img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
+    img3="ChromaticSplit/ChromaticSplit_Gameplay3.PNG" caption3="test caption"
+    img4="ChromaticSplit/ChromaticSplit_Gameplay4.PNG" caption4="test caption"
     %}
 
 </div>
