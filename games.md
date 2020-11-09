@@ -1,3 +1,8 @@
+# Behemyth (UE4, C++)
+
+2020
+
+
 # Isles of Limbo (C++/C#)
 
 2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes with. Using our team's [custom engine](), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
@@ -14,10 +19,10 @@ Areas of responsibility:
 
     {% include slideshow.html 
     class="IslesOfLimboSlides" index="0"
-    img1="IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
-    img2="IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
-    img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
-    img4="IslesOfLimbo_Gameplay2.jpg" caption4="test caption"
+    img1="IslesOfLimbo\IslesOfLimbo_Gameplay1.jpg" caption1="test caption"
+    img2="IslesOfLimbo\IslesOfLimbo_Gameplay2.jpg" caption2="test caption"
+    img3="IslesOfLimbo\IslesOfLimbo_Gameplay3.jpg" caption3="test caption"
+    img4="IslseOfLimbo\IslesOfLimbo_Gameplay4.jpg" caption4="test caption"
     %}
 
 </div>
@@ -41,10 +46,10 @@ Areas of responsibility:
 
     {% include slideshow.html
     class="ChromaticSplitSlides" index="1"
-    img1="IslesOfLimbo_Gameplay2.jpg" caption1="test caption"
-    img2="IslesOfLimbo_Gameplay1.jpg" caption2="test caption"
-    img3="IslesOfLimbo_Gameplay1.jpg" caption3="test caption"
-    img4="IslesOfLimbo_Gameplay1.jpg" caption4="test caption"
+    img1="ChromaticSplit\ChromaticSplitGameplay1.PNG" caption1="test caption"
+    img2="ChromaticSplit\ChromaticSplitGameplay2.PNG" caption2="test caption"
+    img3="ChromaticSplit\ChromaticSplitGameplay3.PNG" caption3="test caption"
+    img4="ChromaticSplit\ChromaticSplitGameplay4.PNG" caption4="test caption"
     %}
 
 </div>
