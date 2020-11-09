@@ -19,10 +19,10 @@ Areas of responsibility:
 
     {% include slideshow.html 
     class="IslesOfLimboSlides" index="0"
-    img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.png" caption1="test caption"
-    img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.png" caption2="test caption"
-    img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.png" caption3="test caption"
-    img4="IslseOfLimbo/IslesOfLimbo_Gameplay4.png" caption4="test caption"
+    img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
+    img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
+    img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
+    img4="IslseOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
     %}
 
 </div>
@@ -37,7 +37,7 @@ Summer of 2019 project at Digipen, [_Chromatic Split_]() is a multitasking puzzl
 Areas of responsibility:
 
 > Gameplay Programmer: Developed collision and movement of characters, along with tile functionality and menu systems.
-
+ 
 > Tools: Programmed level serialization system for building mazes with text files.
 
 <div class="aspect-ratio">
@@ -46,10 +46,10 @@ Areas of responsibility:
 
     {% include slideshow.html
     class="ChromaticSplitSlides" index="1"
-    img1="ChromaticSplit/ChromaticSplitGameplay1.png" caption1="test caption"
-    img2="ChromaticSplit/ChromaticSplitGameplay2.png" caption2="test caption"
-    img3="ChromaticSplit/ChromaticSplitGameplay3.png" caption3="test caption"
-    img4="ChromaticSplit/ChromaticSplitGameplay4.png" caption4="test caption"
+    img1="ChromaticSplit/ChromaticSplitGameplay1.PNG" caption1="test caption"
+    img2="ChromaticSplit/ChromaticSplitGameplay2.PNG" caption2="test caption"
+    img3="ChromaticSplit/ChromaticSplitGameplay3.PNG" caption3="test caption"
+    img4="ChromaticSplit/ChromaticSplitGameplay4.PNG" caption4="test caption"
     %}
 
 </div>
