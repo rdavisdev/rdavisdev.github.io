@@ -40,11 +40,11 @@ Areas of responsibility:
 </div>
 
 <p></p>
-<hr>
+<hr> 
 
 # Chromatic Split (C++)
 
-Summer of 2019 project at Digipen, [_Chromatic Split_]() is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a premade engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
+Summer of 2019 project at Digipen, [_Chromatic Split_](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a premade engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
 
 Areas of responsibility:
 
