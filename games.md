@@ -54,7 +54,7 @@ Areas of responsibility:
 
 <div class="aspect-ratio">
 
-    {% include youtubePlayer.html id="JcMlbyrXuXQ&t=1s" %}
+    {% include youtubePlayer.html id="JcMlbyrXuXQ" %}
 
     {% include slideshow.html 
     class="ChromaticSplitSlides" index="1"
