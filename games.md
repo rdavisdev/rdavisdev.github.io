@@ -80,7 +80,7 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [1,1];
+var slideIndex = [0,0];
 var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false];
 showSlides(1, 0);
