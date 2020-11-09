@@ -65,7 +65,7 @@ Areas of responsibility:
 
 var images = document.getElementsByClassName("slideshow-image");
 for(var i = 0; i < images.length; i++)
-{ 
+{  
     images[i].onclick = function(){
         document.getElementById("Modal").style.display = "block";
         document.getElementById("Modal_img").src = this.src;
@@ -80,7 +80,7 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [0,0];
+var slideIndex = [4,4];
 var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false];
 showSlides(1, 0);
