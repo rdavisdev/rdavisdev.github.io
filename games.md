@@ -11,7 +11,7 @@
     img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
     img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
     %}
-    
+
 </div>
 
 
@@ -54,9 +54,9 @@ Areas of responsibility:
 
 <div class="aspect-ratio">
 
-    {% include youtubePlayer.html id="qTxM9mSe6K4" %}
+    {% include youtubePlayer.html id="JcMlbyrXuXQ&t=1s" %}
 
-    {% include slideshow.html
+    {% include slideshow.html 
     class="ChromaticSplitSlides" index="1"
     img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
     img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
