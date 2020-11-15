@@ -104,7 +104,7 @@ document.getElementById("Modal").onclick = function(){
 <script>
 var slideIndex = [4,4];
 var slideId = ["BehemythSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
-var advanceLock = [false, false];
+var advanceLock = [false, false, false];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
