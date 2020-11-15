@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<p align=center>Concept art by Amy Kim</p>
+<p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
 
 <p></p>
 <hr> 
