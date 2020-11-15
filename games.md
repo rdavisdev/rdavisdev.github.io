@@ -64,7 +64,7 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="JcMlbyrXuXQ" %}
 
-    <div style="width: 49%; left: 50%; height: 98%;">
+    <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
         {% include slideshow.html 
         class="ChromaticSplitSlides" index="2"
         img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
@@ -102,7 +102,7 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [4,4];
+var slideIndex = [4,4,4];
 var slideId = ["BehemythSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false, false];
 showSlides(1, 0);
