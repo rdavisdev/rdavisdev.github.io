@@ -7,7 +7,7 @@
     <div style="position: absolute; width: 49%; left: 25%; height: 98%;">
 
         {% include slideshow.html 
-        class="IslesOfLimboSlides" index="0"
+        class="BehemythSlides" index="0"
         img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
         img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
         img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
@@ -37,7 +37,7 @@ Areas of responsibility:
 
     <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
         {% include slideshow.html 
-        class="IslesOfLimboSlides" index="0"
+        class="IslesOfLimboSlides" index="1"
         img1="IslesOfLimbo/IslesOfLimbo_Ga meplay1.PNG" caption1="test caption"
         img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
         img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
@@ -66,7 +66,7 @@ Areas of responsibility:
 
     <div style="width: 49%; left: 50%; height: 98%;">
         {% include slideshow.html 
-        class="ChromaticSplitSlides" index="1"
+        class="ChromaticSplitSlides" index="2"
         img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
         img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
         img3="ChromaticSplit/ChromaticSplit_Gameplay3.PNG" caption3="test caption"
@@ -103,10 +103,11 @@ document.getElementById("Modal").onclick = function(){
 
 <script>
 var slideIndex = [4,4];
-var slideId = ["IslesOfLimboSlides", "ChromaticSplitSlides"]
+var slideId = ["BehemythSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false];
 showSlides(1, 0);
 showSlides(1, 1);
+showSlides(1, 2);
 
 advanceSlides();
 function advanceSlides()
