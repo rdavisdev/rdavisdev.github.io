@@ -16,7 +16,8 @@
 
     </div>
 
-<p align=right>Concept art by Amy Kim</p>
+<br >
+<p align=center>Concept art by Amy Kim</p>
 
 </div>
 
