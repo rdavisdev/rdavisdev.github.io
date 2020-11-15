@@ -15,10 +15,9 @@
         %}
 
     </div>
-    <div>
-        <p align=center>Concept art by Amy Kim</p>
-    </div>
 </div>
+
+<p align=center>Concept art by Amy Kim</p>
 
 <p></p>
 <hr> 
