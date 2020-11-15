@@ -1,4 +1,4 @@
-# Behemyth (UE4, C++)
+# Behemyth (UE4, C++) [In Progress]
 
 2020
 
@@ -31,13 +31,15 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
-    {% include slideshow.html 
-    class="IslesOfLimboSlides" index="0"
-    img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
-    img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
-    img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
-    img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
-    %}
+    <div style="width: 49%; left: 50%; height: 98%;">
+        {% include slideshow.html 
+        class="IslesOfLimboSlides" index="0"
+        img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
+        img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
+        img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
+        img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
+        %}
+    </div>
 
 </div>
 
@@ -58,13 +60,15 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="JcMlbyrXuXQ" %}
 
-    {% include slideshow.html 
-    class="ChromaticSplitSlides" index="1"
-    img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
-    img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
-    img3="ChromaticSplit/ChromaticSplit_Gameplay3.PNG" caption3="test caption"
-    img4="ChromaticSplit/ChromaticSplit_Gameplay4.PNG" caption4="test caption"
-    %}
+    <div style="width: 49%; left: 50%; height: 98%;">
+        {% include slideshow.html 
+        class="ChromaticSplitSlides" index="1"
+        img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
+        img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
+        img3="ChromaticSplit/ChromaticSplit_Gameplay3.PNG" caption3="test caption"
+        img4="ChromaticSplit/ChromaticSplit_Gameplay4.PNG" caption4="test caption"
+        %}
+    </div>
 
 </div>
 
