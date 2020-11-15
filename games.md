@@ -2,9 +2,9 @@
 
 2020
 
-<div class="aspect-ratio">
+<div class="aspect-ratio" style="width:50%; left:50%;">
 
-    <div style="position: absolute; width: 49%; left: 25%; height: 98%;">
+    <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
         class="BehemythSlides" index="0"
@@ -16,8 +16,9 @@
 
     </div>
 
+<p align=right>Concept art by Amy Kim</p>
+
 </div>
-<p align=center>Concept art by Amy Kim</p>
 
 <p></p>
 <hr> 
