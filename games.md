@@ -1,7 +1,5 @@
 # Behemyth (UE4, C++) [In Progress]
 
-2020
-
 <div class="aspect-ratio" style="width:50%; left:50%;">
 
     <div style="position: absolute; width: 100%; height: 100%;">
@@ -18,6 +16,8 @@
 </div>
 
 <p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
+
+2020
 
 <p></p>
 <hr> 
