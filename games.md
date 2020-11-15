@@ -2,7 +2,8 @@
 
 2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
-<div class="aspect-ratio" style="width:50%; left:50%;" align="right">
+<div>
+<div class="aspect-ratio" style="width:50%; left:50%; float:right;">
 
     <div style="position: absolute; width: 100%; height: 100%;">
 
@@ -15,6 +16,7 @@
         %}
 
     </div>
+</div>
 </div>
 
 <p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
