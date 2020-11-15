@@ -4,13 +4,17 @@
 
 <div class="aspect-ratio">
 
-    {% include slideshow.html 
-    class="IslesOfLimboSlides" index="0"
-    img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
-    img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
-    img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
-    img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
-    %}
+    <div style="position: absolute; width: 49%; left: 25%; height: 98%;">
+
+        {% include slideshow.html 
+        class="IslesOfLimboSlides" index="0"
+        img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
+        img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
+        img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
+        img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
+        %}
+
+    </div>
 
 </div>
 
