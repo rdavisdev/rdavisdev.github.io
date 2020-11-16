@@ -19,10 +19,9 @@
 
 <p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
 
-<div>
-</div>
+<br> 
 
-<p></p>
+<p></p> 
 <hr> 
  
 # Isles of Limbo (C++/C#)
