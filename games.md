@@ -1,6 +1,6 @@
 # Behemyth (UE4, C++) [In Progress]
 
-<div class="aspect-ratio" style="width:50%; float: right;">
+<div class="aspect-ratio" style="width:50%; float: right; ">
 
     <div style="position: absolute; width: 100%; height: 100%;">
 
@@ -19,7 +19,9 @@
 
 <p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
 
-<br> 
+<div>
+&nbsp;
+</div>
 
 <p></p> 
 <hr> 
