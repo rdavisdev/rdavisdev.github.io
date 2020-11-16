@@ -1,6 +1,6 @@
 # Behemyth (UE4, C++) [In Progress]
  
-<div style="display: inline-block">
+<div style="display: inline-block; width: 100%;">
 <div class="aspect-ratio" style="width:50%; float: right; ">
  
     <div style="position: absolute; width: 100%; height: 100%;">
