@@ -14,8 +14,8 @@
     </div>
 </div>
 
-<div style="float: right; clear:right;">
-    <p style="text-align: center">
+<div style="float: right; clear:right; width: 50%;">
+    <p style="text-align: center; position: absolute; width:50%">
         Concept art by Amy Kim
     </p>
 </div>
