@@ -1,25 +1,22 @@
 # Behemyth (UE4, C++) [In Progress]
 
-<div style="float:right">
-    <div class="aspect-ratio" style="width:50%;">  
-        <div style="position: absolute; width: 100%; height: 100%;">
+<div class="aspect-ratio" style="float: right; width:50%;">  
+    <div style="position: absolute; width: 100%; height: 100%;">
 
-            {% include slideshow.html 
-            class="BehemythSlides" index="0"
-            img1="Behemyth/ConceptArt1.jpg" caption1="test caption"
-            img2="Behemyth/ConceptArt2.jpg" caption2="test caption"
-            img3="Behemyth/ConceptArt3.jpg" caption3="test caption"
-            img4="Behemyth/ConceptArt4.jpg" caption4="test caption"
-            %}
+        {% include slideshow.html 
+        class="BehemythSlides" index="0"
+        img1="Behemyth/ConceptArt1.jpg" caption1="test caption"
+        img2="Behemyth/ConceptArt2.jpg" caption2="test caption"
+        img3="Behemyth/ConceptArt3.jpg" caption3="test caption"
+        img4="Behemyth/ConceptArt4.jpg" caption4="test caption"
+        %}
 
-        </div>
     </div>
-
-    <p>
-        Concept art by Amy Kim
-    </p>
-
 </div>
+
+<p>
+    Concept art by Amy Kim
+</p>
 
 2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
