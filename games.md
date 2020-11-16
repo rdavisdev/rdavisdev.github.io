@@ -19,6 +19,9 @@
 
 <p align=center style="position: absolute; width: 50%; left: 50%;">Concept art by Amy Kim</p>
 
+<div>
+</div>
+
 <p></p>
 <hr> 
  
