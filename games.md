@@ -1,6 +1,6 @@
 # Behemyth (UE4, C++) [In Progress]
 
-<div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0">  
+<div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
