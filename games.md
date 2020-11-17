@@ -31,7 +31,7 @@ Areas of responsibility:
 <div style="clear:both; display: block;">
 </div>
 
-<hr id="gamebreak">
+<hr style="margin: -10px 0 0">
  
 # Isles of Limbo (C++/C#)
 
@@ -59,7 +59,7 @@ Areas of responsibility:
 
 </div>
 
-<hr id="gamebreak"> 
+<hr> 
 
 # Chromatic Split (C++)
 
