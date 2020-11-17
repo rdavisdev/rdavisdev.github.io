@@ -31,7 +31,7 @@ Areas of responsibility:
 <div style="clear:both; display: block;">
 </div>
 
-<hr style="margin: -10px 0 0">
+<hr>
  
 # Isles of Limbo (C++/C#)
 
