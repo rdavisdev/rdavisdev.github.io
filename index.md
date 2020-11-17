@@ -1,11 +1,4 @@
-<html>
-    <div id="title">
-        <h1>Hello!</h1>
-    </div>
-    <hr>
-</html>
-
-# And Welcome to my portfolio!
+# Hello and Welcome!
 
 My name is Ryan, a junior programmer at the DigiPen Institute of Technology. I'm studying real time interactive simulation and loving every bit of it. Past titles I've worked on while here are [Chromatic Split]() and [Isles of Limbo](), along with a new game under development [right now](). 
 
