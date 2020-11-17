@@ -1,5 +1,7 @@
 # Behemyth (UE4, C++) [In Progress]
 
+2020-2021 project at DigiPen, Behemyth is a motion based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends the turtle from an industrial army of spirit harvesting robots. Release date set for May 2021.
+
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
@@ -19,8 +21,6 @@
         Concept art by Amy Kim
     </p>
 </div>
-
-2020-2021 project at DigiPen, Behemyth is a motion based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends the turtle from an industrial army of spirit harvesting robots. Release date set for May 2021.
 
 Areas of responsibility:
 
