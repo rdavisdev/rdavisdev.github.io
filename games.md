@@ -24,9 +24,9 @@
 
 Areas of responsibility:
 
-> Gameplay: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
+> **Gameplay**: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
 
-> Graphics: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
+> **Graphics**: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
@@ -39,9 +39,9 @@ Areas of responsibility:
 
 Areas of responsibility:
 
-> Graphics: Was the team's graphics programmer. Using OpenGL, I implimented core functionality like sprite rendering and Spine animation. Developed tools such as determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
+> **Graphics**: Was the team's graphics programmer. Using OpenGL, I implimented core functionality like sprite rendering and Spine animation. Developed tools such as determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
 
-> Engine Developement: Worked closely with development of the engine's foundation. Worked on instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, added performance diagnostic toolset and a per-entity timewarp system.
+> **Engine Developement**: Worked closely with development of the engine's foundation. Worked on instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, added performance diagnostic toolset and a per-entity timewarp system.
 
 <div class="aspect-ratio">
 
@@ -67,9 +67,9 @@ Summer of 2019 project at Digipen, [_Chromatic Split_](https://drive.google.com/
 
 Areas of responsibility:
 
-> Gameplay Programmer: Developed character collision, character movement, camera dynamics, tile functionality, and menu systems.
+> **Gameplay Programmer**: Developed character collision, character movement, camera dynamics, tile functionality, and menu systems.
  
-> Tools: Programmed serialization system for building levels through text files. Engine parses characters, builds tiles, and places player based on these blueprints.
+> **Tools**: Programmed serialization system for building levels through text files. Engine parses characters, builds tiles, and places player based on these blueprints.
 
 <div class="aspect-ratio">
 
