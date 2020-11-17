@@ -15,7 +15,7 @@
 </div>
 
 <div style="float: right; clear:right; width: 50%;">
-    <p style="text-align: center;">
+    <p style="text-align: center; margin: 0 0 10px;">
         Concept art by Amy Kim
     </p>
 </div>
@@ -31,7 +31,7 @@ Areas of responsibility:
 <div style="clear:both; display: block;">
 </div>
 
-<hr>
+<hr id="gamebreak">
  
 # Isles of Limbo (C++/C#)
 
@@ -59,7 +59,7 @@ Areas of responsibility:
 
 </div>
 
-<hr> 
+<hr id="gamebreak"> 
 
 # Chromatic Split (C++)
 
