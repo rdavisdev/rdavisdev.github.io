@@ -31,7 +31,6 @@ Areas of responsibility:
 <div style="clear:both; display: block;">
 </div>
 
-<p></p> 
 <hr>
  
 # Isles of Limbo (C++/C#)
@@ -60,7 +59,6 @@ Areas of responsibility:
 
 </div>
 
-<p></p>
 <hr> 
 
 # Chromatic Split (C++)
@@ -93,8 +91,6 @@ Areas of responsibility:
     <img id="Modal_img" class="modal-content">
     <div id="modal_caption" class="modal-caption"></div>
 </div>
-
-<p></p>
 
 <script>
 
