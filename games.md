@@ -20,9 +20,6 @@
     </p>
 </div>
 
-<div style="clear:both; display: block;">
-</div>
-
 2020-2021 project at DigiPen, Behemyth is a mobility based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends his home from an industrial army of destructive automatons. Release date set for May 2021.
 
 Areas of responsibility:
@@ -30,6 +27,9 @@ Areas of responsibility:
 > Gameplay: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
 
 > Graphics: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
+
+<div style ="clear:both; display: block;">
+</div>
 
 <hr>
  
