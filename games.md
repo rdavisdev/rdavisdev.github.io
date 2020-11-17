@@ -8,8 +8,6 @@ Areas of responsibility:
 
 > Graphics: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
 
-<div>
-
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
@@ -28,8 +26,6 @@ Areas of responsibility:
     <p style="text-align: center; margin: 0 0 10px;">
         Concept art by Amy Kim
     </p>
-</div>
-
 </div>
 
 <div style="clear:both; display: block;">
