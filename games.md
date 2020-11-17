@@ -18,7 +18,7 @@ Areas of responsibility:
         img1="Behemyth/ConceptArt1.jpg" caption1="test caption"
         img2="Behemyth/ConceptArt2.jpg" caption2="test caption"
         img3="Behemyth/ConceptArt3.jpg" caption3="test caption"
-        img4="Behemyt h/ConceptArt4.jpg" caption4="test caption"
+        img4="Behemyth/ConceptArt4.jpg" caption4="test caption"
         %}
 
     </div>
