@@ -1,13 +1,5 @@
 # Behemyth (UE4, C++) [In Progress]
 
-2020-2021 project at DigiPen, Behemyth is a motion based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends the turtle from an industrial army of spirit harvesting robots. Release date set for May 2021.
-
-Areas of responsibility:
-
-> Gameplay: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
-
-> Graphics: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
-
 <div>
     <div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0;">  
         <div style="position: absolute; width: 100%; height: 100%;">
@@ -32,6 +24,14 @@ Areas of responsibility:
     <div style="clear:both; display: block;">
     </div>
 </div>
+
+2020-2021 project at DigiPen, Behemyth is a motion based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends the turtle from an industrial army of spirit harvesting robots. Release date set for May 2021.
+
+Areas of responsibility:
+
+> Gameplay: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
+
+> Graphics: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
 
 <hr>
  
