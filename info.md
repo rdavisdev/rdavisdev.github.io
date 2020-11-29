@@ -7,7 +7,7 @@
 
 # Resume
 
-[Download](/assets/RyanDavis_Resume.pdf)
+- [Fullpage](/assets/RyanDavis_Resume.pdf)
 <div id="resumePDF" style="height: 800px;"></div>
 
 <script src="/PDFObject/pdfobject.js"></script>
