@@ -5,10 +5,9 @@
 - LinkedIn: <https://www.linkedin.com/in/rdavisdev/>
 - Github: <https://github.com/rdavisdev>
 
-# Resume
+# [Resume](/assets/RyanDavis_Resume.pdf)
 
-- [Fullpage](/assets/RyanDavis_Resume.pdf)
 <div id="resumePDF" style="height: 800px;"></div>
 
 <script src="/PDFObject/pdfobject.js"></script>
-<script>PDFObject.embed("/assets/RyanDavis_Resume.pdf", "#resumePDF");</script>
+<script>PDFObject.embed("/assets/RyanDavis_Resume.pdf", "#resumePDF");</script> 
