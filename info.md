@@ -1,8 +1,8 @@
 About page!
 
-<div id="resumePDF"></div>
+[Download](/assets/RyanDavis_Resume.pdf)
 
-{% include youtubePlayer.html id="u1Azba3HAT8" %}
+<div id="resumePDF"></div>
 
 <script src="/PDFObject/pdfobject.js"></script>
 <script>PDFObject.embed("/assets/RyanDavis_Resume.pdf", "#resumePDF");</script>
