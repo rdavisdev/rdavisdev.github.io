@@ -5,9 +5,10 @@
 - Github: <https://github.com/rdavisdev>
 
 <hr>
+
 # Resume
 
-- Resume: [Download](/assets/RyanDavis_Resume.pdf):
+[Download](/assets/RyanDavis_Resume.pdf):
 <div id="resumePDF"></div>
 
 <hr>
