@@ -1,3 +1,5 @@
+<br>
+
 # Contact
 
 - Email: <rdavis.dev@gmail.com>
@@ -8,7 +10,7 @@
 
 # Resume
 
-[Download](/assets/RyanDavis_Resume.pdf):
+[Download](/assets/RyanDavis_Resume.pdf)
 <div id="resumePDF"></div>
 
 <hr>
