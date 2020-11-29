@@ -1,3 +1,7 @@
+## Games
+
+<hr>
+
 # Behemyth (UE4, C++) [In Progress]
 
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 0 0;">  
@@ -24,9 +28,9 @@
 
 Areas of responsibility:
 
-> **Gameplay**: Primarily working on player character. Developed the [zipline system](), currently the main movement method of the game, along with other ability mechanics and the systems through which they interact.
+> **Gameplay**: Primarily working on player character and it's abilities. Developed waypoint system for objective guidance. Created dynamic [zipline system](), one of the primary movement mechanics of the game. Also developed waypoint system.
 
-> **Graphics**: Developed several shaders to help solidify the visual style of the game. Was given an oportunity to implement a [volumetric cloud simulation]() as decoration for the game's aerial setting.
+> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implement a [volumetric cloud simulation]() as a background for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
