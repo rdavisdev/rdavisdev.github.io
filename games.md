@@ -1,8 +1,6 @@
-<br>
 
 # Games
 
-<br>
 <br>
 <hr>
 
