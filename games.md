@@ -25,7 +25,7 @@
     </p>
 </div>
 
-2020-2021 project at DigiPen, Behemyth is a mobility based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends his home from an industrial army of destructive automatons. Release date set for May 2021.
+Junior project at DigiPen, Behemyth is a mobility based wave defense set on the back of a mythical flying turtle, one of the last of it's kind. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a tribe of turtle-tenders as he defends his home from an industrial army of destructive automatons. Release date set for May 2021.
 
 Areas of responsibility:
 
@@ -42,7 +42,7 @@ Areas of responsibility:
 
 <br>
 
-2019-2020 project at DigiPen, _Isles of Limbo_ [[Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
+Sophmore project at DigiPen, _Isles of Limbo_ [[Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
 Areas of responsibility:
 
@@ -72,7 +72,7 @@ Areas of responsibility:
 
 <br>
 
-Summer of 2019 project at Digipen, _Chromatic Split_ [[Download]](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
+Freshmen Summer project at Digipen, _Chromatic Split_ [[Download]](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
 
 Areas of responsibility:
 
