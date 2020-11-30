@@ -1,6 +1,5 @@
 
-<h1 id="Projects" style="text-align: center;">Projects</h1>
-
+<h1 style="text-align: center;">Projects</h1>
 <hr>
 
 # Volumetric Clouds (HSLS)

@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">Contact Info and Resume</h1>
+<hr>
 
 # Contact
 

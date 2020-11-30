@@ -1,5 +1,4 @@
-<h1 id="games" style="text-align: center;">Hello and Welcome!</h1>
-
+<h1 style="text-align: center;">Hello and Welcome!</h1>
 <hr>
 
 My name is Ryan, a junior programmer at the DigiPen Institute of Technology. I'm studying real-time interactive simulation and loving every bit of it. Past titles I've worked on while here are [Chromatic Split](https://rdavisdev.github.io/games) and [Isles of Limbo](https://rdavisdev.github.io/games). My team and I are currently working on an under development game called [Behemyth](https://rdavisdev.github.io/games). 
