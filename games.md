@@ -19,7 +19,7 @@
     </div>
 </div>
 
-<div style="float: right; clear:right; width: 50%;">
+<div style="float: right; clear:right; width: 50%; margin: 0 15px 0">
     <p style="text-align: center; margin: 0 0 10px;">
         Concept art by Amy Kim
     </p>
