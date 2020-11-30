@@ -1,7 +1,6 @@
 
-# Games
+<h1 id="games" style="text-align: center;">Games</h1>
 
-<br>
 <hr>
 
 # Behemyth (UE4, C++) [In Progress]
