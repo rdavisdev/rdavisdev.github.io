@@ -79,7 +79,7 @@ Summer of 2019 project at Digipen, [_Chromatic Split_](https://drive.google.com/
 Areas of responsibility:
 
 > **Gameplay Programmer**: Developed character collision, character movement, camera dynamics, tile functionality, and menu systems.
- 
+  
 > **Tools**: Programmed serialization system for building levels through text files. Engine parses characters, builds tiles, and places player based on these blueprints.
 
 <div class="aspect-ratio">
@@ -97,8 +97,6 @@ Areas of responsibility:
     </div>
 
 </div>
-
-<hr>
 
 <div id="Modal" class="modal">
     <img id="Modal_img" class="modal-content">
