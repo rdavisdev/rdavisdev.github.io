@@ -56,7 +56,7 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
-    <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
+    <div style="position: absolute; width: 49%; left: 51%; height: 98%;">
         {% include slideshow.html 
         class="IslesOfLimboSlides" index="1"
         img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
@@ -86,7 +86,7 @@ Areas of responsibility:
 
     {% include youtubePlayer.html id="JcMlbyrXuXQ" %}
 
-    <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
+    <div style="position: absolute; width: 49%; left: 51%; height: 98%;">
         {% include slideshow.html 
         class="ChromaticSplitSlides" index="2"
         img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
