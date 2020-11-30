@@ -10,10 +10,10 @@
 
         {% include slideshow.html 
         class="CloudSimSlides" index="0"
-        img1="CloudSim/CloudSim1.jpg" caption1="test caption"
-        img2="CloudSim/CloudSim2.jpg" caption2="test caption"
-        img3="CloudSim/CloudSim3.jpg" caption3="test caption"
-        img4="CloudSim/CloudSim4.jpg" caption4="test caption"
+        img1="CloudSim/CloudSim1.png" caption1="test caption"
+        img2="CloudSim/CloudSim2.png" caption2="test caption"
+        img3="CloudSim/CloudSim3.png" caption3="test caption"
+        img4="CloudSim/CloudSim4.png" caption4="test caption"
         %}
 
     </div>
