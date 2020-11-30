@@ -40,9 +40,9 @@ Areas of responsibility [So Far]:
 
 # >> Isles of Limbo (C++/C#)
 
-<br>
+[[Steam Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) 
 
-[[Steam Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) Sophmore project at DigiPen, _Isles of Limbo_ is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
+Sophmore project at DigiPen, _Isles of Limbo_ is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
 Areas of responsibility:
 
@@ -70,9 +70,9 @@ Areas of responsibility:
 
 # >> Chromatic Split (C++)
 
-<br>
+[[Installer Download]](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing)
 
-[[Installer Download]](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) Freshmen Summer project at Digipen, _Chromatic Split_ is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
+Freshmen Summer project at Digipen, _Chromatic Split_ is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
 
 Areas of responsibility:
 
