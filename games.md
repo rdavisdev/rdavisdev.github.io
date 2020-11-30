@@ -31,7 +31,7 @@ Areas of responsibility:
 
 > **Gameplay**: Primarily working on player character and it's abilities. Developed waypoint system for objective guidance. Created dynamic [zipline mechanic](), one of the primary movement methods of the game. Also developed waypoint system.
 
-> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implement a [volumetric cloud renderer]() as a background for the game's aerial setting.
+> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implement a [volumetric cloud renderer](https://rdavisdev.github.io/projects) as a background for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
@@ -40,7 +40,7 @@ Areas of responsibility:
  
 # Isles of Limbo (C++/C#)
 
-2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
+2019-2020 project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
 Areas of responsibility:
 
