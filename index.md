@@ -1,4 +1,4 @@
-# Hello and Welcome!
+<h1 id="games" style="text-align: center;">Hello and Welcome!</h1>
 
 <hr>
 
