@@ -28,63 +28,12 @@ Using a method of bipolar ray marching, Felix was able to create a performative,
 <div style ="clear:both; display: block;">
 </div>
 
-<hr>
- 
-# Ziplines (UE4/C++)
 
-Primarily functioning as a movement mechanic for Behemyth, this zipline mechanic became encompassing
 
-Areas of responsibility:
 
-> **Graphics**: Was the team's graphics programmer. Using OpenGL, I implimented core functionality like sprite rendering and Spine animation. Developed tools such as determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
 
-> **Engine Developement**: Worked closely with development of the engine's foundation. Worked on instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, added performance diagnostic toolset and a per-entity timewarp system.
 
-<div class="aspect-ratio">
 
-    {% include youtubePlayer.html id="qTxM9mSe6K4" %}
-
-    <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
-        {% include slideshow.html 
-        class="IslesOfLimboSlides" index="1"
-        img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
-        img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
-        img3="IslesOfLimbo/IslesOfLimbo_Gameplay3.PNG" caption3="test caption"
-        img4="IslesOfLimbo/IslesOfLimbo_Gameplay4.PNG" caption4="test caption"
-        %}
-    </div>
-
-</div>
-
-<hr> 
-
-# Chromatic Split (C++)
-
-Summer of 2019 project at Digipen, [_Chromatic Split_](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
-
-Areas of responsibility:
-
-> **Gameplay Programmer**: Developed character collision, character movement, camera dynamics, tile functionality, and menu systems.
- 
-> **Tools**: Programmed serialization system for building levels through text files. Engine parses characters, builds tiles, and places player based on these blueprints.
-
-<div class="aspect-ratio">
-
-    {% include youtubePlayer.html id="JcMlbyrXuXQ" %}
-
-    <div style="position: absolute; width: 49%; left: 50%; height: 98%;">
-        {% include slideshow.html 
-        class="ChromaticSplitSlides" index="2"
-        img1="ChromaticSplit/ChromaticSplit_Gameplay1.PNG" caption1="test caption"
-        img2="ChromaticSplit/ChromaticSplit_Gameplay2.PNG" caption2="test caption"
-        img3="ChromaticSplit/ChromaticSplit_Gameplay3.PNG" caption3="test caption"
-        img4="ChromaticSplit/ChromaticSplit_Gameplay4.PNG" caption4="test caption"
-        %}
-    </div>
-
-</div>
-
-<hr>
 
 <div id="Modal" class="modal">
     <img id="Modal_img" class="modal-content">
