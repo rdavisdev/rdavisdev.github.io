@@ -42,7 +42,7 @@ Areas of responsibility [So Far]:
 
 <br>
 
-Sophmore project at DigiPen, _Isles of Limbo_ is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience. [[Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/)
+Sophmore project at DigiPen, _Isles of Limbo_ is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience. [[Steam Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/)
 
 Areas of responsibility:
 
