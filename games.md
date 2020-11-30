@@ -29,9 +29,9 @@
 
 Areas of responsibility:
 
-> **Gameplay**: Primarily working on player character and it's abilities. Developed waypoint system for objective guidance. Created dynamic [zipline mechanic](https://rdavisdev.github.io/projects), one of the primary movement methods of the game. Also developed waypoint system.
+> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Dynamic [zipline mechanic](https://rdavisdev.github.io/projects), one of the primary movement methods of the game.
 
-> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implemented a [volumetric cloud renderer](https://rdavisdev.github.io/projects) as a background for the game's aerial setting.
+> **Graphics**: Outline and kuwahara shaders to help solidify the visual style of the game. [Volumetric cloud renderer](https://rdavisdev.github.io/projects) as a background for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
@@ -46,9 +46,9 @@ Areas of responsibility:
 
 Areas of responsibility:
 
-> **Graphics**: Was the team's graphics programmer. Using OpenGL, I implimented core functionality like sprite rendering and Spine animation. Developed tools such as determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
+> **Graphics**: Team's graphics programmer. Using OpenGL, implimented core functionality like sprite rendering and Spine animation. Developed graphical features including determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
 
-> **Engine Developement**: Worked closely with development of the engine's foundation. Worked on instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, added performance diagnostic toolset and a per-entity timewarp system.
+> **Engine Developement**: Worked closely with development of the engine's foundation. Instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, performance diagnostic toolset and a per-entity timewarp system.
 
 <div class="aspect-ratio">
 
@@ -76,9 +76,9 @@ Summer of 2019 project at Digipen, [_Chromatic Split_](https://drive.google.com/
 
 Areas of responsibility:
 
-> **Gameplay Programmer**: Developed character collision, character movement, camera dynamics, tile functionality, and menu systems.
+> **Gameplay Programmer**: Character collision, character movement, camera dynamics, tile functionality, and menu systems.
   
-> **Tools**: Programmed serialization system for building levels through text files. Engine parses characters, builds tiles, and places player based on these blueprints.
+> **Tools**: Serialization system for building levels through text files. System parses characters, builds tiles, and places player based on these blueprints.
 
 <div class="aspect-ratio">
 
