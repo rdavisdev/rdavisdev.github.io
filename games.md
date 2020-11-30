@@ -31,7 +31,7 @@ Areas of responsibility:
 
 > **Gameplay**: Primarily working on player character and it's abilities. Developed waypoint system for objective guidance. Created dynamic [zipline mechanic](), one of the primary movement methods of the game. Also developed waypoint system.
 
-> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implement a [volumetric cloud simulation]() as a background for the game's aerial setting.
+> **Graphics**: Developed outline and kuwahara shaders to help solidify the visual style of the game. Implement a [volumetric cloud renderer]() as a background for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
