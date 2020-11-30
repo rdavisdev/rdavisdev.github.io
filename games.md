@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 <hr>
 
-# Behemyth (UE4, C++) [In Progress]
+# >> Behemyth (UE4, C++) [In Progress]
 
 <br>
 
@@ -38,7 +38,7 @@ Areas of responsibility [So Far]:
 
 <hr>
 
-# Isles of Limbo (C++/C#)
+# >> Isles of Limbo (C++/C#)
 
 <br>
 
@@ -68,7 +68,7 @@ Areas of responsibility:
 
 <hr>
 
-# Chromatic Split (C++)
+# >> Chromatic Split (C++)
 
 <br>
 
