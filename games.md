@@ -48,7 +48,7 @@ Areas of responsibility:
 
 > **Graphics**: Team's graphics programmer. Using OpenGL, implimented core functionality like sprite rendering and Spine animation. Developed graphical features including determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
 
-> **Engine Developement**: Worked closely with development of the engine's foundation. Instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports. Near end of production, performance diagnostic toolset and a per-entity timewarp system.
+> **Engine Developement**: Worked closely with development of the engine's foundation. Instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports were my contributions. Near the end of production, added performance diagnostic toolset and entity timewarp system.
 
 <div class="aspect-ratio">
 
