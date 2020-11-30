@@ -1,5 +1,5 @@
 
-<h1 id="Projects" style="text-align: center;">Games</h1>
+<h1 id="Projects" style="text-align: center;">Projects</h1>
 
 <hr>
 
