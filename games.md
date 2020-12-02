@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 <hr>
 
-# >> Behemyth (UE4, C++) - In Progress
+# >> Behemyth (UE4/C++/HLSL) - In Progress
 
 <br>
 
@@ -38,7 +38,7 @@ Areas of responsibility (so far):
 
 <hr>
 
-# >> Isles of Limbo (C++/C#)
+# >> Isles of Limbo (C++/C#/GLSL)
 
 &nbsp; &nbsp; &nbsp; &nbsp; [[Steam Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) 
 
