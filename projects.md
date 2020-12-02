@@ -58,6 +58,7 @@ Built with a team of 4 other programmers. We aimed to mimic the layout and funct
 - **Level and prefab json serialization**
 - **Transform oriented collision and rendering**
 - **Fontsheet driven sprite text**
+- **Modifiable tint and opacity of renderables**
 - Gameplay pausing and single frame skipping
 
 > **Graphics**
