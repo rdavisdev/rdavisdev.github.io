@@ -22,10 +22,10 @@
 <div style="float: right; clear:right; width: 50%; margin: 0 15px 0">
     <p style="text-align: center; margin: 0 0 10px;">
         Concept art by Amy Kim
-    </p>
+    </p> 
 </div>
 
-Junior project at DigiPen, Beh emyth is a mobility based wave defense set on the back of one of the world's last mythical flying turtle. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a turtle-tending tribe as he defends his home from an industrial army of destructive automatons. Release date set for May 2021!
+Junior project at DigiPen, __Behemyth__ is a mobility based wave defense set on the back of one of the world's last mythical flying turtle. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a turtle-tending tribe as he defends his home from an industrial army of destructive automatons. Release date set for May 2021!
 
 Areas of responsibility (so far):
 
