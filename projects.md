@@ -53,13 +53,13 @@ Though method this is still missing several important features from Felix's appr
     </div>
 </div>
 
-Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. My specific contributions are as follows:
+Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI, a C# Mono VM for scripting, and Spine's C++ API for skeletal animation. My specific contributions are as follows:
 
 **Basic Functionality**
 - Asset archetypes and instanced rendering
 - Level and prefab json serialization
 - Transform driven game objects
-- Fontsheet driven sprite text
+- Fontsheet sources sprite text
 - Modifiable tint and opacity of renderables
 
 **Graphics**
