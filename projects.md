@@ -1,8 +1,8 @@
 
 <h1 style="text-align: center;">Projects</h1>
 
-<a id="Clouds"></a>
 <hr>
+<a id="Clouds"></a>
 
 # Volumetric Clouds (HSLS)
 
@@ -35,8 +35,8 @@ Though method this is still missing several important features from Felix's appr
 <div style ="clear:both; display: block;">
 </div>
 
-<a id="Liftoff"></a>
 <hr>
+<a id="Liftoff"></a>
 
 # Liftoff Engine (ImGui, C++, GLSL)
 
