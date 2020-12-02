@@ -34,7 +34,52 @@ Though method this is still missing several important features from Felix's appr
 <div style ="clear:both; display: block;">
 </div>
 
+# Liftoff Engine (ImGui, C++, GLSL)
 
+<br>
+
+<div class="aspect-ratio" style="float: right; width:50%; margin: 15px 15px 15px;">  
+    <div style="position: absolute; width: 100%; height: 100%;">
+
+        {% include slideshow.html 
+        class="CloudSimSlides" index="0"
+        img1="CloudSim/CloudSim1.PNG" caption1="test caption"
+        img2="CloudSim/CloudSim2.PNG" caption2="test caption"
+        img3="CloudSim/CloudSim3.PNG" caption ="test caption"
+        img4="CloudSim/CloudSim4.PNG" caption4="test caption"
+        %}
+
+    </div>
+</div>
+
+Built with a team of 4 other programmers, we aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with an asterics.
+
+Basic Functionality
+- *Asset archetypes and instanced rendering
+- *Level and prefab json serialization
+- *Transform oriented collision and rendering
+- Gameplay pausing and single frame skipping
+
+Graphics
+- *Concurrent viewports for fixed cam gameplay and free cam editing
+- *Determinate particle system allow >500,000 particles to update and draw at once
+- *Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
+- *SFML driven video file streaming
+
+UI
+- Modular widgets supporting resizing, docking, and tabbing
+- Click and drag functionality such as object spawning, translation, and reference linking
+- Realtime content browser for prefabs, art assets, levels, and scripts
+- *Performance diagnostics showing hierarchic breakdown of engine and script performance
+
+Gameplay
+- Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
+- Collision geometry wireframe rendering
+- *Hierachic object transformation
+- *Per object delta time modifiers
+
+<div style ="clear:both; display: block;">
+</div>
 
 
 
