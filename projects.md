@@ -37,6 +37,20 @@ Though method this is still missing several important features from Felix's appr
 
 <br>
 
+<div class="aspect-ratio" style="float: right; width:50%; margin: 15px 15px 15px;">  
+    <div style="position: absolute; width: 100%; height: 100%;">
+
+        {% include slideshow.html 
+        class="CloudSimSlides" index="0"
+        img1="CloudSim/CloudSim1.PNG" caption1="test caption"
+        img2="CloudSim/CloudSim2.PNG" caption2="test caption"
+        img3="CloudSim/CloudSim3.PNG" caption3 ="test caption"
+        img4="CloudSim/CloudSim4.PNG" caption4="test caption"
+        %}
+
+    </div>
+</div>
+
 Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with asterics.
 
 **Basic Functionality**
