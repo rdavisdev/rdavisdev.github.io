@@ -38,7 +38,7 @@ Though method this is still missing several important features from Felix's appr
 <hr>
 <a id="Liftoff"></a>
 
-# Liftoff Engine (ImGui, C++, GLSL)
+# Liftoff Engine (C++/GLSL)
 
 <br>
 
