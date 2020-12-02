@@ -33,6 +33,8 @@ Though method this is still missing several important features from Felix's appr
 <div style ="clear:both; display: block;">
 </div>
 
+<hr>
+
 # Liftoff Engine (ImGui, C++, GLSL)
 
 <br>
@@ -51,33 +53,29 @@ Though method this is still missing several important features from Felix's appr
     </div>
 </div>
 
-Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are in bold.
+Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. My specific contributions are as follows:
 
-> **Basic Functionality**
-- **Asset archetypes and instanced rendering**
-- **Level and prefab json serialization**
-- **Transform driven game objects**
-- **Fontsheet driven sprite text**
-- **Modifiable tint and opacity of renderables**
-- Gameplay pausing and single frame skipping
+**Basic Functionality**
+- Asset archetypes and instanced rendering
+- Level and prefab json serialization
+- Transform driven game objects
+- Fontsheet driven sprite text
+- Modifiable tint and opacity of renderables
 
-> **Graphics**
-- **Concurrent viewports for fixed cam gameplay and free cam editing**
-- **Determinate particle system allow >500,000 particles to update and draw at once**
-- **Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes**
-- **SFML driven video file streaming**
+**Graphics**
+- Concurrent viewports for fixed cam gameplay and free cam editing
+- Determinate particle system allow >500,000 particles to update and draw at once
+- Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
+- SFML driven video file streaming
 
-> **UI**
-- Modular widgets supporting resizing, docking, and tabbing
-- Click and drag functionality such as object spawning, translation, and reference linking
-- Realtime content browser for prefabs, art assets, levels, and scripts
-- **Performance diagnostics showing hierarchic breakdown of engine and script performance**
+**UI**
+- Details widgets for particle systems, sprites, sprite text, and Spine models
+- Sprite source importing tool for aligning frames for sprite text or animations
+- Performance diagnostics showing hierarchic breakdown of engine and script performance
 
-> **Gameplay**
-- Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
-- Collider wireframe display options
-- **Hierachic object transformation**
-- **Per object delta time modifiers**
+**Gameplay**
+- Hierachic object transformation
+- Per object delta time modifiers
 
 <div style ="clear:both; display: block;">
 </div>
