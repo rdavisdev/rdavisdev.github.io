@@ -13,7 +13,7 @@
         class="CloudSimSlides" index="0"
         img1="CloudSim/CloudSim1.PNG" caption1="test caption"
         img2="CloudSim/CloudSim2.PNG" caption2="test caption"
-        img3="CloudSim/CloudSim3.PNG" caption3="test caption"
+        img3="CloudSim/CloudSim3.PNG" caption ="test caption"
         img4="CloudSim/CloudSim4.PNG" caption4="test caption"
         %}
 
@@ -25,15 +25,9 @@ Over the Summer of 2020, I had a short period of free time during which I began 
 Using a method of bipolar ray marching, Felix was able to create a performative, photorealistic, and volumetric cloud-scape. My current implementation has the following abstract process:
 
 - Generate a modified repeating Voronoi noise volumetric texture
-- For each pixel, ray-march away from camera with an exponentially increasing step size
-    - During each ray-march step, sample from the Voronoi texture from march position and treat the intensity as cloud density
-    - If the density is above a threshold (within a cloud)
-        - Intensify a carry over cloud color by this density
-        - To generate the cloud shadows, begin a second ray-march sequence from current marching position toward sun
-            - The step count for this is generally low, 3 to 10 is usually all it takes
-            - Resample Voronoi texture from second march position and darken a carry over shadow color by the density
-    - If at any point the shadow color or cloud color reach full opacity, end ray-march
-- After this process, you're left with a cloud and shadow color, which can be combined with the scene texture weighted by intensity.
+- For each pixel, ray-march while sampling from texture to build cloud color
+- For each sample inside cloud, ray-march toward sun to build shadow color
+- Combine generated colors with scene texture for transparency
 
 My implementation does not fully follow Felix's example yet, but I'm working to improve it in order to match his method more closely. I'll be continuing to do this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
 
