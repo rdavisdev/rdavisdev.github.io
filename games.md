@@ -48,7 +48,7 @@ Sophmore project at DigiPen, _Isles of Limbo_ is an action packed hack and slash
 
 Areas of responsibility:
 
-> **Graphics**: Team's graphics programmer. Using OpenGL, implimented core functionality like sprite rendering and Spine animation. Developed graphical features including determinate particle system, deferred glow shaders, and stencil culling system. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video streaming for cutscenes.
+> **Graphics**: Team's graphics programmer. Using OpenGL, implimented core functionality like sprite rendering and Spine animation. Developed graphical features including high-capacity particle system, deferred glow effect, and custom stencil culling. Handled mid-project switch from 2D to 3D assets in a low-impact method. Implemented video file streaming for in-game cutscenes.
 
 > **Engine Developement**: Worked closely with development of the engine's foundation. Instanced entities, serialization, entity and component referencing, parenting hierarchies, and modular viewports were my contributions. Near the end of production, added performance diagnostic toolset and entity timewarp system.
 
