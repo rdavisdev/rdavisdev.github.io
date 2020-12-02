@@ -3,7 +3,7 @@
 <a id="Behemyth"></a>
 <hr>
 
-# >> Behemyth (UE4/C++/HLSL) [In Progress]
+# Behemyth (UE4/C++/HLSL) [In Progress]
 
 <br>
 
@@ -41,7 +41,7 @@ Areas of responsibility (so far):
 <a id="IslesOfLimbo"></a>
 <hr>
 
-# >> Isles of Limbo (C++/C#/GLSL)
+# Isles of Limbo (C++/C#/GLSL)
 
 <br>
 
@@ -69,11 +69,12 @@ Areas of responsibility:
 
 </div>
 
-
+ 
+ 
 <a id="ChromaticSplit"></a>
 <hr>
 
-# >> Chromatic Split (C++)
+# Chromatic Split (C++)
 
 <br>
 
