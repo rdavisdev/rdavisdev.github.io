@@ -55,8 +55,7 @@ Areas of responsibility:
     {% include youtubePlayer.html id="qTxM9mSe6K4" %}
 
     <div style="position: absolute; width: 49%; left: 50%; height: 98%; margin: 0 5px 0;">
-        {% include slidesh
-        ow.html 
+        {% include slideshow.html 
         class="IslesOfLimboSlides" index="1"
         img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
         img2="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption2="test caption"
