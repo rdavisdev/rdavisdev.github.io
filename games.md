@@ -1,6 +1,8 @@
 <h1 style="text-align: center;">Games</h1>
 <hr>
 
+<a id="Behemyth"></a>
+
 # >> Behemyth (UE4/C++/HLSL) [In Progress]
 
 <br>
@@ -29,20 +31,22 @@ Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on th
 
 Areas of responsibility (so far):
 
-> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Dynamic [zipline mechanic](https://rdavisdev.github.io/projects), one of the primary movement methods of the game.
+> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Dynamic zipline mechanic, one of the primary movement methods of the game.
 
-> **Graphics**: Outline and kuwahara shaders to help solidify the visual style of the game. [Volumetric cloud renderer](https://rdavisdev.github.io/projects) as a background for the game's aerial setting.
+> **Graphics**: Outline and kuwahara shaders to help solidify the visual style of the game. [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds) as a background for the game's aerial setting.
 
 <div style ="clear:both; display: block;">
 </div>
 
 <hr>
 
+<a id="IslesOfLimbo"></a>
+
 # >> Isles of Limbo (C++/C#/GLSL)
 
 <br>
 
-Sophmore project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
+Sophmore project at DigiPen, [_Isles of Limbo_](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) is an action packed hack and slash featuring creative enemy designs, scenic ambience, and a wide move set to dispatch foes. Using our team's [custom engine](https://rdavisdev.github.io/projects#Liftoff), we sought to produce a game with eye catching visuals and fast paced gameplay. With hundreds of followers on Steam and dozens of [youtube playthroughs](https://www.youtube.com/results?search_query=isles+of+limbo), the attention this student project got was a gratifying experience.
 
 Areas of responsibility:
 
@@ -67,6 +71,8 @@ Areas of responsibility:
 </div>
 
 <hr>
+
+<a id="ChromaticSplit"></a>
 
 # >> Chromatic Split (C++)
 

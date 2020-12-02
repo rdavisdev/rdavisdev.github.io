@@ -53,7 +53,7 @@ Though method this is still missing several important features from Felix's appr
     </div>
 </div>
 
-Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI, a C# Mono VM for scripting, and Spine's C++ API for skeletal animation. My specific contributions are as follows:
+Built with a team of 5 programmers to support production of [_Isles of Limbo_](https://rdavisdev.github.io/games). We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used [ImGui](https://github.com/ocornut/imgui) for UI, a C# [Mono VM](https://www.mono-project.com/docs/advanced/runtime/) for scripting, and [Spine](http://esotericsoftware.com/)'s C++ API for skeletal animation. My specific contributions are list below. I will go into more depth on of the more complicated features further down.
 
 **Basic Functionality**
 - Asset archetypes and instanced rendering
