@@ -28,7 +28,7 @@ My current implementation follows this abstract process:
 - For each sample inside cloud, ray-march toward sun to build shadow color
 - Combine generated colors with scene texture for transparency
 
-Though method this is still missing several important features from Felix's approach, particularly a signed-distance field for improved performance, I'll be continuing to develope it as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. St ay tuned for updates!
+Though method this is still missing several important features from Felix's approach, particularly a signed-distance field for improved performance, I'll be continuing to develope it as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
 
 <div style ="clear:both; display: block;">
 </div>
