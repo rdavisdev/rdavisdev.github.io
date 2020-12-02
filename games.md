@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 
-<a id="Behemyth"></a>
 <hr>
+<a id="Behemyth"></a>
 
 # Behemyth (UE4/C++/HLSL) [In Progress]
 
@@ -38,8 +38,8 @@ Areas of responsibility (so far):
 <div style ="clear:both; display: block;">
 </div>
 
-<a id="IslesOfLimbo"></a>
 <hr>
+<a id="IslesOfLimbo"></a>
 
 # Isles of Limbo (C++/C#/GLSL)
 
@@ -69,10 +69,8 @@ Areas of responsibility:
 
 </div>
 
- 
- 
-<a id="ChromaticSplit"></a>
 <hr>
+<a id="ChromaticSplit"></a>
 
 # Chromatic Split (C++)
 
