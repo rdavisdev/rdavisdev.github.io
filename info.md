@@ -7,7 +7,7 @@
 - LinkedIn: <https://www.linkedin.com/in/rdavisdev/>
 - Github: <https://github.com/rdavisdev>
 
-# [Resume](/assets/RyanDavis_Resume.pdf)
+# Resume
 
 <div id="resumePDF" style="height: 800px;"></div>
 
