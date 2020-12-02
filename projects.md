@@ -52,7 +52,7 @@ Though method this is still missing several important features from Felix's appr
     </div>
 </div>
 
-Built with a team of 4 other programmers, we aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with an asterics.
+Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with asterics.
 
 Basic Functionality
 - *Asset archetypes and instanced rendering
