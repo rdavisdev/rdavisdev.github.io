@@ -3,6 +3,8 @@
 
 # >> Behemyth (UE4/C++/HLSL) [In Progress]
 
+<br>
+
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 15px 15px;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
@@ -67,6 +69,8 @@ Areas of responsibility:
 <hr>
 
 # >> Chromatic Split (C++)
+
+<br>
 
 Freshmen Summer project at Digipen, [_Chromatic Split_](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing) is a multitasking puzzle game where the player navigates multiple characters through color based mazes. With linked movement, conveyor belts, and sliding movement, navigating these mazes are both challenging and satisfying. Completed in 3 months using a school supplied engine framework, the game utilizes a level serialization system that lets developers build mazes using text files.
 
