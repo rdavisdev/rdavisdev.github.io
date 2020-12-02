@@ -13,7 +13,7 @@
         class="CloudSimSlides" index="0"
         img1="CloudSim/CloudSim1.PNG" caption1="test caption"
         img2="CloudSim/CloudSim2.PNG" caption2="test caption"
-        img3="CloudSim/CloudSim3.PNG" caption ="test caption"
+        img3="CloudSim/CloudSim3.PNG" caption3 ="test caption"
         img4="CloudSim/CloudSim4.PNG" caption4="test caption"
         %}
 
@@ -45,7 +45,7 @@ Though method this is still missing several important features from Felix's appr
         class="CloudSimSlides" index="0"
         img1="CloudSim/CloudSim1.PNG" caption1="test caption"
         img2="CloudSim/CloudSim2.PNG" caption2="test caption"
-        img3="CloudSim/CloudSim3.PNG" caption ="test caption"
+        img3="CloudSim/CloudSim3.PNG" caption3 ="test caption"
         img4="CloudSim/CloudSim4.PNG" caption4="test caption"
         %}
 
