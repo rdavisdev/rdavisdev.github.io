@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 <hr>
 
-# >> Behemyth (UE4/C++/HLSL) - In Progress {style="margin: 40px 0 0}
+# >> Behemyth (UE4/C++/HLSL) -In Progress-
 
 <br>
 
@@ -38,7 +38,7 @@ Areas of responsibility (so far):
 
 <hr>
 
-# >> Isles of Limbo (C++/C#/GLSL) {style="margin: 40px 0 0"}
+# >> Isles of Limbo (C++/C#/GLSL)
 
 <br>
 
