@@ -23,7 +23,6 @@
 Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural env ironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from the  creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
 
 My current implementation follows this abstract process:
-
 - Generate a modified repeating Voronoi noise volumetric texture
 - For each pixel, ray-march while sampling from texture to build cloud color
 - For each sample inside cloud, ray-march toward sun to build shadow color
@@ -40,29 +39,29 @@ Though method this is still missing several important features from Felix's appr
 
 Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with asterics.
 
-- **Basic Functionality**
-    - *Asset archetypes and instanced rendering
-    - *Level and prefab json serialization
-    - *Transform oriented collision and rendering
-    - Gameplay pausing and single frame skipping
+**Basic Functionality**
+- *Asset archetypes and instanced rendering
+- *Level and prefab json serialization
+- *Transform oriented collision and rendering
+- Gameplay pausing and single frame skipping
 
-- **Graphics**
-    - *Concurrent viewports for fixed cam gameplay and free cam editing
-    - *Determinate particle system allow >500,000 particles to update and draw at once
-    - *Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
-    - *SFML driven video file streaming
+**Graphics**
+- *Concurrent viewports for fixed cam gameplay and free cam editing
+- *Determinate particle system allow >500,000 particles to update and draw at once
+- *Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
+- *SFML driven video file streaming
 
-- **UI**
-    - Modular widgets supporting resizing, docking, and tabbing
-    - Click and drag functionality such as object spawning, translation, and reference linking
-    - Realtime content browser for prefabs, art assets, levels, and scripts
-    - *Performance diagnostics showing hierarchic breakdown of engine and script performance
+**UI**
+- Modular widgets supporting resizing, docking, and tabbing
+- Click and drag functionality such as object spawning, translation, and reference linking
+- Realtime content browser for prefabs, art assets, levels, and scripts
+- *Performance diagnostics showing hierarchic breakdown of engine and script performance
 
-- **Gameplay**
-    - Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
-    - Collision geometry wireframe rendering
-    - *Hierachic object transformation
-    - *Per object delta time modifiers
+**Gameplay**
+- Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
+- Collision geometry wireframe rendering
+- *Hierachic object transformation
+- *Per object delta time modifiers
 
 <div style ="clear:both; display: block;">
 </div>
