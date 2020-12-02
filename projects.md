@@ -22,14 +22,14 @@
 
 Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural env ironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from the  creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
 
-Using a method of bipolar ray marching, Felix was able to create a performative, photorealistic, and volumetric cloud-scape. My current implementation has the following abstract process:
+My current implementation has the following abstract process:
 
 - Generate a modified repeating Voronoi noise volumetric texture
 - For each pixel, ray-march while sampling from texture to build cloud color
 - For each sample inside cloud, ray-march toward sun to build shadow color
 - Combine generated colors with scene texture for transparency
 
-My implementation does not fully follow Felix's example yet, but I'm working to improve it in order to match his method more closely. I'll be continuing to do this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
+This process is still missing several important features from Felix's approach, such as using a signed-distance field for improved performance, but I'll be continuing to work on this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. St ay tuned for updates!
 
 <div style ="clear:both; display: block;">
 </div>
