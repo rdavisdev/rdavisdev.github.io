@@ -21,7 +21,7 @@
     </div>
 </div>
 
-Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural env ironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from the  creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
+Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural environment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from the  creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
 
 My current implementation follows this abstract process:
 - Generate a modified repeating Voronoi noise volumetric texture
@@ -54,7 +54,7 @@ Though method this is still missing several important features from Felix's appr
     </div>
 </div>
 
-Built with a team of 5 programmers to support production of [_Isles of Limbo_](https://rdavisdev.github.io/games#IslesOfLimbo). We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used [ImGui](https://github.com/ocornut/imgui) for UI, a C# [Mono VM](https://www.mono-project.com/docs/advanced/runtime/) for scripting, and [Spine](http://esotericsoftware.com/)'s C++ Runtime for skeletal animation. My specific contributions are list below. I will go into more depth on of the more complicated features further down.
+Built with a team of 5 programmers to support production of [_Isles of Limbo_](https://rdavisdev.github.io/games#IslesOfLimbo). We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used [ImGui](https://github.com/ocornut/imgui) for UI, a C# [Mono VM](https://www.mono-project.com/docs/advanced/runtime/) for scripting, and [Spine](http://esotericsoftware.com/)'s C++ Runtime for skeletal animation. My specific contributions are list below. I will go into more depth on a few of the features further down.
 
 **Basic Functionality**
 - Asset archetypes and instanced rendering
