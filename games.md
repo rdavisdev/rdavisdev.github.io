@@ -30,9 +30,9 @@ Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on th
 
 Areas of responsibility (so far):
 
-> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Dynamic zipline mechanic, one of the primary movement methods of the game.
+> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Freeform zipline mechanic.
 
-> **Graphics**: Outline and kuwahara shaders to help solidify the visual style of the game. [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds) as a background for the game's aerial setting.
+> **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using my [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds) project as a base.
 
 <div style ="clear:both; display: block;">
 </div>
