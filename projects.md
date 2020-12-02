@@ -20,7 +20,7 @@
     </div>
 </div>
 
-Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural enironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
+Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural env ironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
 
 Using a method of bipolar ray marching, Felix was able to create a performative, photorealistic, and volumetric cloud-scape. While my implementation still has a ways to go, I'm excited to continue work on this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
 
