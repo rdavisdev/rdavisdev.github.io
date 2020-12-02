@@ -56,7 +56,7 @@ Built with a team of 4 other programmers. We aimed to mimic the layout and funct
 > **Basic Functionality**
 - **Asset archetypes and instanced rendering**
 - **Level and prefab json serialization**
-- **Transform oriented collision and rendering**
+- **Transform driven game objects**
 - **Fontsheet driven sprite text**
 - **Modifiable tint and opacity of renderables**
 - Gameplay pausing and single frame skipping
