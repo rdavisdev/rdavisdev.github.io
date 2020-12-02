@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 <hr>
 
-# >> Behemyth (UE4/C++/HLSL) - In Progress
+# >> Behemyth (UE4/C++/HLSL) - In Progress {style="margin: 40px 0 0"}
 
 <br>
 
@@ -38,7 +38,7 @@ Areas of responsibility (so far):
 
 <hr>
 
-# >> Isles of Limbo (C++/C#/GLSL)
+# >> Isles of Limbo (C++/C#/GLSL) {style="margin: 40px 0 0"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Steam Download]](https://store.steampowered.com/app/1389260/Isles_of_Limbo/) 
 
@@ -68,7 +68,7 @@ Areas of responsibility:
 
 <hr>
 
-# >> Chromatic Split (C++)
+# >> Chromatic Split (C++) {style="margin: 40px 0 0"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Installer Download]](https://drive.google.com/file/d/1r_M860-sYk4mbykvZJSQm_F5-Ec388Yz/view?usp=sharing)
 
