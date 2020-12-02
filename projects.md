@@ -22,7 +22,20 @@
 
 Over the Summer of 2020, I had a short period of free time during which I began this project. Following my passion for natural env ironment rendering, I set out to create a real-time volumetric cloud-scape. Taking inspiration from the [cloud showcase](https://youtu.be/5tHzP00qZMQ?t=69) of a game called UHawk VR, I've been learning from the  creator through his [development blog](https://blog.uhawkvr.com/). Credit to Felix Westin. Thank you!
 
-Using a method of bipolar ray marching, Felix was able to create a performative, photorealistic, and volumetric cloud-scape. While my implementation still has a ways to go, I'm excited to continue work on this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
+Using a method of bipolar ray marching, Felix was able to create a performative, photorealistic, and volumetric cloud-scape. My current implementation has the following abstract process:
+
+- Generate a modified repeating Voronoi noise volumetric texture
+- For each pixel, ray-march away from camera with an exponentially increasing step size
+    - During each ray-march step, sample from the Voronoi texture from march position and treat the intensity as cloud density
+    - If the density is above a threshold (within a cloud)
+        - Intensify a carry over cloud color by this density
+        - To generate the cloud shadows, begin a second ray-march sequence from current marching position toward sun
+            - The step count for this is generally low, 3 to 10 is usually all it takes
+            - Resample Voronoi texture from second march position and darken a carry over shadow color by the density
+    - If at any point the shadow color or cloud color reach full opacity, end ray-march
+- After this process, you're left with a cloud and shadow color, which can be combined with the scene texture weighted by intensity.
+
+My implementation does not fully follow Felix's example yet, but I'm working to improve it in order to match his method more closely. I'll be continuing to do this as time allows. Coincidentally, the [game](https://rdavisdev.github.io/games) I'm working on for school this year ended up having an aerial setting, giving me a practical oportunity to implement what I've learned from this. Stay tuned for updates!
 
 <div style ="clear:both; display: block;">
 </div>
