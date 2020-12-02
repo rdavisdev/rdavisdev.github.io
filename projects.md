@@ -41,28 +41,40 @@ Though method this is still missing several important features from Felix's appr
 Built with a team of 4 other programmers. We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used ImGui for UI and Spine for skeletal animation. Features of the engine are listed below. My spcific contributions are marked with asterics.
 
 > **Basic Functionality**
-> >> *Asset archetypes and instanced rendering
-> >> *Level and prefab json serialization
-> >> *Transform oriented collision and rendering
-> >> Gameplay pausing and single frame skipping
+>> *Asset archetypes and instanced rendering
+>>
+>> *Level and prefab json serialization
+>>
+>> *Transform oriented collision and rendering
+>>
+>> Gameplay pausing and single frame skipping
 
 > **Graphics**
-> >> *Concurrent viewports for fixed cam gameplay and free cam editing
-> >> *Determinate particle system allow >500,000 particles to update and draw at once
-> >> *Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
-> >> *SFML driven video file streaming
+>> *Concurrent viewports for fixed cam gameplay and free cam editing
+>>
+>> *Determinate particle system allow >500,000 particles to update and draw at once
+>>
+>> *Channel oriented visual effect linking, allowing multiple objects or particles to share shader passes
+>>
+>> *SFML driven video file streaming
 
 > **UI**
-> >> Modular widgets supporting resizing, docking, and tabbing
-> >> Click and drag functionality such as object spawning, translation, and reference linking
-> >> Realtime content browser for prefabs, art assets, levels, and scripts
-> >> *Performance diagnostics showing hierarchic breakdown of engine and script performance
+>> Modular widgets supporting resizing, docking, and tabbing
+>>
+>> Click and drag functionality such as object spawning, translation, and reference linking
+>>
+>> Realtime content browser for prefabs, art assets, levels, and scripts
+>>
+>> *Performance diagnostics showing hierarchic breakdown of engine and script performance
 
 > **Gameplay**
-> >> Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
-> >> Collision geometry wireframe rendering
-> >> *Hierachic object transformation
-> >> *Per object delta time modifiers
+>> Mono driven C# virtual machine for gameplay scripts, allowing engine-runtime script recompilation
+>>
+>> Collision geometry wireframe rendering
+>>
+>> *Hierachic object transformation
+>>
+>> *Per object delta time modifiers
 
 <div style ="clear:both; display: block;">
 </div>
