@@ -1,7 +1,8 @@
 <h1 style="text-align: center;">Games</h1>
 
-<div id="Behemyth"></div>
 <hr>
+
+<div id="Behemyth" style="display: block; position:relative; top: -200px; visibility: hidden;"></div>
 
 # Behemyth (UE4/C++/HLSL) [In Progress]
 
