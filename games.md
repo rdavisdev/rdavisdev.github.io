@@ -1,10 +1,12 @@
 <h1 style="text-align: center;">Games</h1>
 
-<hr id="Behemyth">
+<div id="Behemyth"></div>
+<hr>
 
 # Behemyth (UE4/C++/HLSL) [In Progress]
 
 <br>
+
 
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 15px 15px;">  
     <div style="position: absolute; width: 100%; height: 100%;">
@@ -31,7 +33,7 @@ Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on th
 Areas of responsibility (so far):
 
 > **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Freeform zipline mechanic.
-
+ 
 > **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using my [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds) project as a base.
 
 <div style ="clear:both; display: block;">
