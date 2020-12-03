@@ -2,7 +2,7 @@
 
 <hr>
 
-<div id="Behemyth" style="display: block; position:relative; top: -200px; visibility: hidden;"></div>
+<div id="Behemyth" style="display: block; position:relative; top: -100px; visibility: hidden;"></div>
 
 # Behemyth (UE4/C++/HLSL) [In Progress]
 
