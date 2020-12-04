@@ -1,8 +1,7 @@
 <h1 style="text-align: center;">Games</h1>
 
 <hr>
-
-<div id="Behemyth" style="display: block; position:relative; top: -100px; visibility: hidden;"></div>
+<div id="Behemyth" class="headerAnchor"></div>
 
 # Behemyth (UE4/C++/HLSL) [In Progress]
 
@@ -40,7 +39,8 @@ Areas of responsibility (so far):
 <div style ="clear:both; display: block;">
 </div>
 
-<hr id="IslesOfLimb">
+<hr>
+<div id="IslesOfLimbo" class="headerAnchor"></div>
 
 # Isles of Limbo (C++/C#/GLSL)
 
@@ -70,7 +70,8 @@ Areas of responsibility:
 
 </div>
 
-<hr id="ChromaticSplit">
+<hr>
+<div id="ChromaticSplit" class="headerAnchor"></div>
 
 # Chromatic Split (C++)
 
