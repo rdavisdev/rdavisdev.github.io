@@ -114,7 +114,7 @@ document.getElementById("Modal").onclick = function(){
 
 <script>
 var slideIndex = [4, 4];
-var slideId = ["CloudSimSlides, LiftoffSlides"]
+var slideId = ["CloudSimSlides", "LiftoffSlides"]
 var advanceLock = [false, false];
 showSlides(1, 0);
 showSlides(1, 1);
