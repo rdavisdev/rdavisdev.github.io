@@ -20,8 +20,6 @@ My name is Ryan, a junior programmer at the DigiPen Institute of Technology. I'm
 My experiences and interests are in the following areas: 
 
 - Graphics 
-
-
 - Gameplay Programming
 - Engine Development
 
