@@ -6,7 +6,7 @@
 
         {% include slideshow.html 
         class="HomeSlides" index="0"
-        img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
+        img1="IslesOfLimbo/IslesOfLimbo_Gameplay2.PNG" caption1="test caption"
         img2="Behemyth/Behemyth1.PNG" caption2="test caption"
         img3="Liftoff/Liftoff3.JPG" caption3="test caption"
         img4="CloudSim/CloudSim4.PNG" caption4="test caption"
