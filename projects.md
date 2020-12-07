@@ -46,11 +46,11 @@ Though method this is still missing several important features from Felix's appr
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
-        class="CloudSimSlides" index="0"
-        img1="CloudSim/CloudSim1.PNG" caption1="test caption"
-        img2="CloudSim/CloudSim2.PNG" caption2="test caption"
-        img3="CloudSim/CloudSim3.PNG" caption3 ="test caption"
-        img4="CloudSim/CloudSim4.PNG" caption4="test caption"
+        class="LiftoffSlides" index="0"
+        img1="Liftoff/Liftoff1.JPG" caption1="test caption"
+        img2="Liftoff/Liftoff2.JPG" caption2="test caption"
+        img3="Liftoff/Liftoff3.JPG" caption3 ="test caption"
+        img4="Liftoff/Liftoff4.JPG" caption4="test caption"
         %}
 
     </div>
@@ -113,10 +113,11 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [4];
-var slideId = ["CloudSimSlides"]
-var advanceLock = [false];
+var slideIndex = [4, 4];
+var slideId = ["CloudSimSlides, LiftoffSlides"]
+var advanceLock = [false, false];
 showSlides(1, 0);
+showSlides(1, 1);
 
 advanceSlides();
 function advanceSlides()
