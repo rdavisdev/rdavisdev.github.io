@@ -1,14 +1,14 @@
 <h1 style="text-align: center;">Hello and Welcome!</h1>
 <hr>
 
-<div class="aspect-ratio" style="float: right; width:50%; margin: 0px 15px 15px;">  
+<div class="aspect-ratio" style="float: right; width:100%; margin: 0px 15px 15px;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
         class="HomeSlides" index="0"
-        img1="CloudSim/CloudSim1.PNG" caption1="test caption"
-        img2="CloudSim/CloudSim2.PNG" caption2="test caption"
-        img3="CloudSim/CloudSim3.PNG" caption3="test caption"
+        img1="IslesOfLimbo/IslesOfLimbo_Gameplay1.PNG" caption1="test caption"
+        img2="Behemyth/Behemyth1.PNG" caption2="test caption"
+        img3="Liftoff/Liftoff3.JPG" caption3="test caption"
         img4="CloudSim/CloudSim4.PNG" caption4="test caption"
         %}
 
