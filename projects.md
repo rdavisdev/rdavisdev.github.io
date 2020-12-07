@@ -46,7 +46,7 @@ Though method this is still missing several important features from Felix's appr
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
-        class="LiftoffSlides" index="0"
+        class="LiftoffSlides" index="1"
         img1="Liftoff/Liftoff1.JPG" caption1="test caption"
         img2="Liftoff/Liftoff2.JPG" caption2="test caption"
         img3="Liftoff/Liftoff3.JPG" caption3 ="test caption"
