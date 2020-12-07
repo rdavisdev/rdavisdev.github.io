@@ -42,7 +42,7 @@ Though method this is still missing several important features from Felix's appr
 
 <br>
 
-<div class="aspect-ratio" style="float: right; width:50%; margin: 0px 15px 15px;">  
+<div class="aspect-ratio" style="width:100%;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
@@ -55,6 +55,8 @@ Though method this is still missing several important features from Felix's appr
 
     </div>
 </div>
+
+<br>
 
 Built with a team of 5 programmers to support production of [_Isles of Limbo_](https://rdavisdev.github.io/games#IslesOfLimbo). We aimed to mimic the layout and functionality of Unity closely to allow ease of use. Used [ImGui](https://github.com/ocornut/imgui) for UI, a C# [Mono VM](https://www.mono-project.com/docs/advanced/runtime/) for scripting, and [Spine](http://esotericsoftware.com/)'s C++ Runtime for skeletal animation. My specific contributions are list below.
 
