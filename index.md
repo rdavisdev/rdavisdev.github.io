@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Hello and Welcome!</h1>
 <hr>
 
-<div class="aspect-ratio" style="float: right; width:100%; margin: 0px 15px 15px;">  
+<div class="aspect-ratio" style="width:100%;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
