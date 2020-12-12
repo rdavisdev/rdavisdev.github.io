@@ -77,7 +77,7 @@ Built with a team of 5 programmers to support production of [_Isles of Limbo_](h
 **UI**
 - Details widgets for particle systems, sprites, sprite text, and Spine models
 - Sprite source importing tool for aligning frames for sprite text or animations
-- Performance diagnostics showing hierarchic breakdown of engine or script performance
+- Instrumented profiler for engine and script optimization
 
 **Gameplay**
 - Hierachic object transformation
