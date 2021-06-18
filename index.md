@@ -57,7 +57,7 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [4];
+var slideIndex = [3];
 var slideId = ["HomeSlides"]
 var advanceLock = [false];
 showSlides(1, 0);
