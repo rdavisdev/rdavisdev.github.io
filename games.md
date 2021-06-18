@@ -3,10 +3,9 @@
 <hr>
 <div id="Behemyth" class="headerAnchor"></div>
 
-# Behemyth (UE4/C++/HLSL) [In Progress]
+# Behemyth (UE4/C++/HLSL) [Project Terminated]
 
 <br>
-
 
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 15px 15px;">  
     <div style="position: absolute; width: 100%; height: 100%;">
@@ -30,14 +29,57 @@
 
 Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on the back of one of the world's last mythical flying turtle. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a turtle-tending tribe as he defends his home from an industrial army of destructive automatons. Release date set for May 2021!
 
-Areas of responsibility (so far):
+Areas of responsibility:
 
 > **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Freeform zipline mechanic.
  
-> **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using my [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds) project as a base.
+> **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using a [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds).
 
 <div style ="clear:both; display: block;">
 </div>
+
+
+<! -- 
+<hr>
+<div id="Behemyth" class="headerAnchor"></div>
+
+# Behemyth (UE4/C++/HLSL) [Project Terminated]
+
+<br>
+
+<div class="aspect-ratio" style="float: right; width:50%; margin: 0 15px 15px;">  
+    <div style="position: absolute; width: 100%; height: 100%;">
+
+        {% include slideshow.html 
+        class="BehemythSlides" index="0"
+        img1="Behemyth/Behemyth1.PNG" caption1="test caption"
+        img2="Behemyth/Behemyth2.jpg" caption2="test caption"
+        img3="Behemyth/Behemyth3.jpg" caption3="test caption"
+        img4="Behemyth/Behemyth4.jpg" caption4="test caption"
+        %}
+
+    </div>
+</div>
+
+<div style="float: right; clear:right; width: 50%; margin: 0 15px 0">
+    <p style="text-align: center; margin: 0 0 10px;">
+        Concept art by Amy Kim
+    </p> 
+</div>
+
+Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on the back of one of the world's last mythical flying turtle. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a turtle-tending tribe as he defends his home from an industrial army of destructive automatons. Release date set for May 2021!
+
+Areas of responsibility:
+
+> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Freeform zipline mechanic.
+ 
+> **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using a [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds).
+
+<div style ="clear:both; display: block;">
+</div> 
+-->
+
+
 
 <hr>
 <div id="IslesOfLimbo" class="headerAnchor"></div>
