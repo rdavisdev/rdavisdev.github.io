@@ -133,7 +133,7 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [11,4,4];
+var slideIndex = [4,4,4];
 var slideId = ["NeonSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false, false];
 showSlides(1, 0);
