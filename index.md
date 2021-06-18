@@ -15,7 +15,7 @@
     </div>
 </div>
 
-My name is Ryan, a senior programmer at the DigiPen Institute of Technology. I'm studying real-time interactive simulation and loving every bit of it. Past titles I've worked on while here are [Chromatic Split](https://rdavisdev.github.io/games#ChromaticSplit), [Isles of Limbo](https://rdavisdev.github.io/games#IslesOfLimbo), and [Project Neon](https://rdavisdev.github.io/games#ProjectNeon). In addition, I often work on independent projects which can be seen [here](https://rdavisdev.github.io/projects). **NOTE: This site is current under developement, some independent projects and code samples are not currently available.**
+My name is Ryan, a senior programmer at the DigiPen Institute of Technology. I'm studying real-time interactive simulation and loving every bit of it. Past titles I've worked on while here are [Chromatic Split](https://rdavisdev.github.io/games#ChromaticSplit), [Isles of Limbo](https://rdavisdev.github.io/games#IslesOfLimbo), and [Project Neon](https://rdavisdev.github.io/games#ProjectNeon). In addition, I often work on independent projects which can be seen [here](https://rdavisdev.github.io/projects). **NOTE: This site is currently under developement, some projects and code samples will not be available.**
 
 My experiences and interests are in the following areas: 
 
