@@ -13,16 +13,16 @@
         {% include slideshow.html 
         class="NeonSlides" index="0"
         img1="ProjectNeon/Neon1.PNG" caption1="test caption"
-        img2="ProjectNeon/Neon2.jpg" caption2="test caption"
-        img3="ProjectNeon/Neon3.jpg" caption3="test caption"
-        img4="ProjectNeon/Neon4.jpg" caption4="test caption"
-        img5="ProjectNeon/Neon5.jpg" caption5="test caption"
-        img6="ProjectNeon/Neon6.jpg" caption6="test caption"
-        img7="ProjectNeon/Neon7.jpg" caption7="test caption"
-        img8="ProjectNeon/Neon8.jpg" caption8="test caption"
-        img9="ProjectNeon/Neon9.jpg" caption9="test caption"
-        img10="ProjectNeon/Neon10.jpg" caption10="test caption"
-        img11="ProjectNeon/Neon11.jpg" caption11="test caption"
+        img2="ProjectNeon/Neon2.PNG" caption2="test caption"
+        img3="ProjectNeon/Neon3.PNG" caption3="test caption"
+        img4="ProjectNeon/Neon4.PNG" caption4="test caption"
+        img5="ProjectNeon/Neon5.PNG" caption5="test caption"
+        img6="ProjectNeon/Neon6.PNG" caption6="test caption"
+        img7="ProjectNeon/Neon7.PNG" caption7="test caption"
+        img8="ProjectNeon/Neon8.PNG" caption8="test caption"
+        img9="ProjectNeon/Neon9.PNG" caption9="test caption"
+        img10="ProjectNeon/Neon10.PNG" caption10="test caption"
+        img11="ProjectNeon/Neon11.PNG" caption11="test caption"
         
         %}
 
