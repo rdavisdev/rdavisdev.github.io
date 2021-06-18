@@ -5,7 +5,6 @@
 
 - Email: <rdavis.dev@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/rdavisdev/>
-- Github: <https://github.com/rdavisdev>
 
 # Resume
 

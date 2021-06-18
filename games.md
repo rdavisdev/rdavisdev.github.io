@@ -1,9 +1,9 @@
 <h1 style="text-align: center;">Games</h1>
 
 <hr>
-<div id="Behemyth" class="headerAnchor"></div>
+<div id="ProjectNeon" class="headerAnchor"></div>
 
-# Behemyth (UE4/C++/HLSL) [Project Terminated]
+# Project Neon (UE4/C++)
 
 <br>
 
@@ -11,11 +11,19 @@
     <div style="position: absolute; width: 100%; height: 100%;">
 
         {% include slideshow.html 
-        class="BehemythSlides" index="0"
-        img1="Behemyth/Behemyth1.PNG" caption1="test caption"
-        img2="Behemyth/Behemyth2.jpg" caption2="test caption"
-        img3="Behemyth/Behemyth3.jpg" caption3="test caption"
-        img4="Behemyth/Behemyth4.jpg" caption4="test caption"
+        class="NeonSlides" index="0"
+        img1="ProjectNeon/Neon1.PNG" caption1="test caption"
+        img2="ProjectNeon/Neon2.jpg" caption2="test caption"
+        img3="ProjectNeon/Neon3.jpg" caption3="test caption"
+        img4="ProjectNeon/Neon4.jpg" caption4="test caption"
+        img5="ProjectNeon/Neon5.jpg" caption5="test caption"
+        img6="ProjectNeon/Neon6.jpg" caption6="test caption"
+        img7="ProjectNeon/Neon7.jpg" caption7="test caption"
+        img8="ProjectNeon/Neon8.jpg" caption8="test caption"
+        img9="ProjectNeon/Neon9.jpg" caption9="test caption"
+        img10="ProjectNeon/Neon10.jpg" caption10="test caption"
+        img11="ProjectNeon/Neon11.jpg" caption11="test caption"
+        
         %}
 
     </div>
@@ -23,23 +31,23 @@
 
 <div style="float: right; clear:right; width: 50%; margin: 0 15px 0">
     <p style="text-align: center; margin: 0 0 10px;">
-        Concept art by Amy Kim
+        Video/Installer Coming Soon
     </p> 
 </div>
 
-Junior project at DigiPen, _Behemyth_ is a mobility based wave defense set on the back of one of the world's last mythical flying turtle. Using ziplines and jump pads to navigate precarious platforms, you play as the last survivor of a turtle-tending tribe as he defends his home from an industrial army of destructive automatons. Release date set for May 2021!
+Junior project at DigiPen, _Project Neon_ is a high mobility first person shooter. Play as a cyber-agent tasked with infiltrating and deactivating the rogue AI, Titan. Dash and wall-run over literal firewalls, "hack" through Titan's security mainframe, and confront the AI face to face. Features a wide array of weapons and enemies, fast paced combat, and striking virtual environments.
 
 Areas of responsibility:
 
-> **Gameplay**: Player character and it's abilities. Waypoint system for objective guidance. Freeform zipline mechanic.
+> **Scripting**: Built a highly flexible toolset which made scripting level elements and player movement quick and simple. Used this toolset for several of the campaign's sequences.
  
-> **Graphics**: Outline and kuwahara shaders to amplify the visual style of the game. Dynamic weather system using a [Volumetric cloud renderer](https://rdavisdev.github.io/projects#Clouds).
+> **Cinematics**: Repurposed a previously developed dynamic fly-cam system into a robust cinematic creation tool. These cinematics are seen during challenge levels and boss introductions.
 
 <div style ="clear:both; display: block;">
 </div>
 
 
-<! -- 
+<! -- COMMENTED OUT
 <hr>
 <div id="Behemyth" class="headerAnchor"></div>
 
@@ -167,8 +175,8 @@ document.getElementById("Modal").onclick = function(){
 </script>
 
 <script>
-var slideIndex = [4,4,4];
-var slideId = ["BehemythSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
+var slideIndex = [11,4,4];
+var slideId = ["NeonSlides", "IslesOfLimboSlides", "ChromaticSplitSlides"]
 var advanceLock = [false, false, false];
 showSlides(1, 0);
 showSlides(1, 1);
