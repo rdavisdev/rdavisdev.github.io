@@ -10,7 +10,7 @@
 <div class="aspect-ratio" style="float: right; width:50%; margin: 0 15px 15px;">  
     <div style="position: absolute; width: 100%; height: 100%;">
 
-        {% include slideshow.html 
+        {% include slideshow_long.html 
         class="NeonSlides" index="0"
         img1="ProjectNeon/Neon1.PNG" caption1="test caption"
         img2="ProjectNeon/Neon2.PNG" caption2="test caption"
